@@ -1,8 +1,11 @@
-package com.github.msorkhpar.wikistorage.extractor;
+package com.github.msorkhpar.graphbuilder.extractor;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.msorkhpar.wikistorage.utils.*;
+import com.github.msorkhpar.graphbuilder.utils.*;
+import com.github.msorkhpar.wikistorage.utils.AdditionalInfo;
+import com.github.msorkhpar.wikistorage.utils.KGTriple;
+import com.github.msorkhpar.wikistorage.utils.WikidataEnglishInfoDTO;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.w3c.dom.Document;

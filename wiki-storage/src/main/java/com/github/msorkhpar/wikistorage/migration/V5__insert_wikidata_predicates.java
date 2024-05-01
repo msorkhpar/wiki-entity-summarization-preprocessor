@@ -19,13 +19,13 @@ import java.nio.charset.StandardCharsets;
 @Component
 @Slf4j
 public class V5__insert_wikidata_predicates extends BaseJavaMigration {
-    @Value("${app.storage.wikidata-predicates-path}")
+    @Value("${app.storage.wikidata-predicates-path:classpath:wikipedia_predicates.tsv}")
     private String filePath;
     @Autowired
     private ResourceLoader resourceLoader;
 
     private void persistRow(JdbcTemplate jdbcTemplate, String[] row) {
-        jdbcTemplate.update("insert into predicates_bk (property_id, property_label, description,quantity) values(?,?,?,?)",
+        jdbcTemplate.update("insert into predicates (property_id, property_label, description,quantity) values(?,?,?,?)",
                 row[1], row[2], row[3], Double.valueOf(row[6]));
     }
 

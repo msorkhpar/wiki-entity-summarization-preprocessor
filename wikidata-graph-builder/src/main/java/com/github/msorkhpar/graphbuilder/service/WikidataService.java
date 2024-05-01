@@ -1,4 +1,4 @@
-package com.github.msorkhpar.wikistorage.service;
+package com.github.msorkhpar.graphbuilder.service;
 
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;

@@ -1,4 +1,4 @@
-package com.github.msorkhpar.wikistorage.utils;
+package com.github.msorkhpar.graphbuilder.utils;
 
 import org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream;
 

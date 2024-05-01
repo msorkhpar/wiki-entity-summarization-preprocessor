@@ -1,4 +1,4 @@
-package com.github.msorkhpar.wikistorage.config;
+package com.github.msorkhpar.graphbuilder.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,53 @@
 services:
+  wdgb:
+    build:
+      context: .
+      dockerfile: wikidata_graph_builder/Dockerfile
+    container_name: wikidata_graph_builder
+    env_file:
+      - configs/wdgb.env
+    environment:
+      - APP_DUMPFILES_DIR=${WIKIDATA_DUMPS_PATH}
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://wiki-es-pg:${DB_PORT}/${DB_NAME}
+      - SPRING_DATASOURCE_USERNAME=${DB_USER}
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
+      - SPRING_NEO4J_AUTHENTICATION_USERNAME=${NEO4J_USER}
+      - SPRING_NEO4J_AUTHENTICATION_PASSWORD=${NEO4J_PASSWORD}
+    depends_on:
+      neo4j:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    links:
+      - neo4j
+      - postgres
+    volumes:
+      - wikidata-dumps:${WIKIDATA_DUMPS_PATH}
+    networks:
+      - wiki-es-network
+  wppe:
+    build:
+      context: .
+      dockerfile: wikidata_page_extractor/Dockerfile
+    container_name: wikidata_graph_builder
+    env_file:
+      - configs/wdgb.env
+    environment:
+      - APP_DUMPFILES_DIR=${WIKIPEDIA_DUMPS_PATH}
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://wiki-es-pg:${DB_PORT}/${DB_NAME}
+      - SPRING_DATASOURCE_USERNAME=${DB_USER}
+      - SPRING_DATASOURCE_PASSWORD=${DB_PASSWORD}
+    depends_on:
+      neo4j:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    links:
+      - postgres
+    volumes:
+      - wikipedia-dumps:${WIKIPEDIA_DUMPS_PATH}
+    networks:
+      - wiki-es-network
   postgres:
     hostname: wiki-es-pg
     image: 'postgres:latest'

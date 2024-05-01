@@ -1,8 +1,9 @@
-package com.github.msorkhpar.wikistorage.utils;
+package com.github.msorkhpar.graphbuilder.utils;
 
 import com.fasterxml.jackson.core.JsonFactory;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonToken;
+import com.github.msorkhpar.wikistorage.utils.KGTriple;
 import lombok.extern.slf4j.Slf4j;
 
 import java.io.IOException;

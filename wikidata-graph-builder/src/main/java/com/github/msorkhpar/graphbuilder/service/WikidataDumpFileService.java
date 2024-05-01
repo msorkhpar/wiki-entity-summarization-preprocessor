@@ -1,7 +1,7 @@
-package com.github.msorkhpar.wikistorage.service;
+package com.github.msorkhpar.graphbuilder.service;
 
 import com.github.msorkhpar.wikistorage.data.PersistenceService;
-import com.github.msorkhpar.wikistorage.extractor.WikiDataEntityExtractor;
+import com.github.msorkhpar.graphbuilder.extractor.WikiDataEntityExtractor;
 import com.github.msorkhpar.wikistorage.utils.KGTriple;
 import com.github.msorkhpar.wikistorage.utils.WikidataEnglishInfoDTO;
 import lombok.RequiredArgsConstructor;
@@ -18,8 +18,8 @@ import java.util.Optional;
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
 
-import static com.github.msorkhpar.wikistorage.extractor.WikiDataEntityExtractor.*;
-import static com.github.msorkhpar.wikistorage.utils.BZip2BufferReader.createBufferedReader;
+import static com.github.msorkhpar.graphbuilder.extractor.WikiDataEntityExtractor.*;
+import static com.github.msorkhpar.graphbuilder.utils.BZip2BufferReader.createBufferedReader;
 
 @Service
 @Slf4j

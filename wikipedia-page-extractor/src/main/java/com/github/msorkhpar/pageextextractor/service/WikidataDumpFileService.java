@@ -23,7 +23,7 @@ import static com.github.msorkhpar.pageextextractor.utils.BZip2BufferReader.crea
 class WikidataDumpFileService {
 
     private final PersistenceService persistenceService;
-    
+
     @SneakyThrows
     @Async
     public CompletableFuture<Path> process(Path dumpFile) {
