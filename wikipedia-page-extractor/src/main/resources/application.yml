@@ -1,0 +1,15 @@
+# https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
+spring:
+  profiles:
+    active: local
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.neo4j.Neo4jAutoConfiguration, org.springframework.boot.autoconfigure.data.neo4j.Neo4jDataAutoConfiguration
+  flyway:
+    baseline-on-migrate: true
+
+app:
+  dump-files:
+    dir: /home/mks/Documents/wikipedia-dumps/
+    pattern: "*pages-articles*xml*.bz2"
+  executor-pool:
+    core-pool-size: 5

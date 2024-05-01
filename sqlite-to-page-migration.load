@@ -1,0 +1,5 @@
+load database
+    from ./dump_files/index_enwiki-latest.db
+    into postgresql://wikies:password@localhost:5432/wikies
+with include drop, create tables, create indexes, reset sequences
+;

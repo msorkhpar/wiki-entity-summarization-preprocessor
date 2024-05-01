@@ -1,0 +1,17 @@
+# https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
+spring:
+  profiles:
+    active: local
+  flyway:
+    baseline-on-migrate: true
+
+app:
+  storage:
+    wikidata-predicates-path: "classpath:wikipedia_predicates.tsv"
+  dump-files:
+    dir: /home/mks/Documents/dump_files
+    pattern: "*pages-articles*xml*.bz2"
+    multi-stream: true
+
+  executor-pool:
+    core-pool-size: 10

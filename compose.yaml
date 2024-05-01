@@ -1,0 +1,76 @@
+services:
+  postgres:
+    hostname: wiki-es-pg
+    image: 'postgres:latest'
+    restart: unless-stopped
+    healthcheck:
+      test: pg_isready -U ${DB_USER}
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    env_file:
+      - configs/pg.env
+    environment:
+      - POSTGRES_DB=${DB_NAME}
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+    volumes:
+      - postgres-volume:/var/lib/postgresql/data
+    ports:
+      - '5432:5432'
+    networks:
+      - wiki-es-network
+
+  neo4j:
+    hostname: wiki-es-neo
+    image: 'neo4j:5'
+    restart: unless-stopped
+    healthcheck:
+      test: [ "CMD", "neo4j", "status" ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    env_file:
+      - configs/neo4j.env
+    environment:
+      - NEO4J_AUTH=${NEO4J_USER}/${NEO4J_PASSWORD}
+    volumes:
+      - neo4j-data:/data
+    ports:
+      - '7474:7474'
+      - '7687:7687'
+    networks:
+      - wiki-es-network
+
+networks:
+  wiki-es-network:
+    external: true
+
+volumes:
+  postgres-volume:
+    driver: local
+    driver_opts:
+      type: none
+      device: ${POSTGRES_VOLUME_PATH}
+      o: bind
+
+  neo4j-data:
+    driver: local
+    driver_opts:
+      type: none
+      device: ${NEO4J_VOLUME_PATH}
+      o: bind
+
+  wikidata-dumps:
+    driver: local
+    driver_opts:
+      o: bind
+      type: none
+      device: ${WIKIDATA_DUMPS_PATH}
+
+  wikipedia-dumps:
+    driver: local
+    driver_opts:
+      o: bind
+      type: none
+      device: ${WIKIPEDIA_DUMPS_PATH}

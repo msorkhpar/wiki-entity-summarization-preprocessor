@@ -1,0 +1,21 @@
+spring:
+  flyway:
+    enabled: true
+    url: ${spring.datasource.url}
+    user: ${spring.datasource.username}
+    password: ${spring.datasource.password}
+  datasource:
+    url: "jdbc:postgresql://localhost:5432/wikies"
+    username: "wikies"
+    password: "password"
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+  neo4j:
+    uri: "bolt://localhost:7687"
+    authentication:
+      username: "neo4j"
+      password: "password"
