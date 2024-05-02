@@ -40,6 +40,7 @@ class WikidataDumpFileService {
                 }
                 // <page> is found. Start building the current xml tag.
                 xmlBuilder.append(line);
+                xmlBuilder.append("\n");
                 if (line.trim().equals("</page>")) {
                     String pageString = xmlBuilder.toString();
                     try {

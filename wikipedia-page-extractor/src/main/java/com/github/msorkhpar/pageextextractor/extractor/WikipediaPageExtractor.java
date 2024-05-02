@@ -27,7 +27,7 @@ public class WikipediaPageExtractor {
         if (!nsValue.equals(NAMESPACE_MAIN)) {
             return null;
         }
-        String title = xmlPage.getElementsByTagName("title").item(0).getTextContent();
+        String title = xmlPage.getElementsByTagName("title").item(0).getTextContent().replace(" ", "_");
         String id = xmlPage.getElementsByTagName("id").item(0).getTextContent();
         NodeList revisionList = xmlPage.getElementsByTagName("revision");
         if (revisionList.getLength() > 0) {
