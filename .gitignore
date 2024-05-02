@@ -1,4 +1,5 @@
 dump_files/
+configs
 .env
 # Compiled class file
 *.class
