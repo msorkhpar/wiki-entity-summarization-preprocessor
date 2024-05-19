@@ -32,6 +32,13 @@ NEO4J_HOST=wiki-es-neo
 "
 }
 
+apps() {
+  echo '
+########## Application ##########
+MAX_DB_CONNECTION_POOL=25
+'
+}
+
 ports() {
   echo "
 ########## Ports ##########
@@ -116,6 +123,7 @@ initialize_env ".env" volumes
 initialize_env ".env" auths
 initialize_env ".env" ports
 initialize_env ".env" hosts
+initialize_env ".env" apps
 initialize_env "./configs/pg.env" pg_env
 initialize_env "./configs/neo4j.env" neo4j_env
 initialize_env "./configs/wdgb.env" wdgb_env

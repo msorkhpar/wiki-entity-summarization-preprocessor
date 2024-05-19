@@ -1,0 +1,11 @@
+psycopg2-binary
+neo4j
+#pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+transformers
+wikitextparser
+html2text
+networkx
+mwparserfromhell
+scikit-learn
+more_itertools

@@ -1,3 +1,3 @@
 alter table wikipedia_pages
-    add if not exists processed boolean default false not null;
+    add if not exists processed boolean default false;
 

@@ -22,5 +22,6 @@ class WikiMapping:
                 identifier = wikipedia_page_title
             else:
                 identifier = wikipedia_id
-
-        self.wikipedia_id, self.wikipedia_page_title, self.wikidata_id = fetch_wiki_mapping(identifier)
+        self.wikipedia_id, self.wikipedia_page_title, self.wikidata_id = fetch_wiki_mapping(
+            identifier
+        )

@@ -1,0 +1,1512 @@
+property_id	property_label	description
+P11117	Viveport ID	identifier of a video game, application, or experience available on Viveport
+P11118	Larousse Online French Dictionary ID	identifier for a Lexeme in online Larousse French dictionary
+P11119	RaiPlay ID	identifier for a film, television program or series on RaiPlay.it
+P11120	Rai Teche person ID	identifier for a person on Rai Teche's official website
+P11121	Rai Teche program ID	identifier for a television program on Rai Teche's official website
+P11122	HomeComputer Museum ID	identifier in the database of computing platforms homecomputer.de
+P11123	Förvaltningshistorisk Ordbok ID	identifier for article in the dictionary of terms pertaining to public administration in Finland
+P11124	Basic Korean Dictionary ID	identifier for a lexeme in the Basic Korean Dictionary published by the National Institute of Korean Language
+P11125	Standard Korean Language Dictionary ID	identifier for a lexeme in the online Standard Korean Language Dictionary published by the National Institute of Korean Language
+P11126	Rowing Australia ID	identifier for an athlete at Rowing Australia
+P11127	MEXT school code	identifier for schools in Japan
+P11128	SA Parliament member ID	identifier for an entry in the biographical register for former members of the Parliament of South Australia
+P11129	C64-Wiki ID	identifier for an item in the C64-Wiki
+P11130	Merriam-Webster online dictionary entry	identifier for an entry for a word in the Merriam-Webster online dictionary
+P11131	Undiscovered Scotland ID	identifier for a page on the Undiscovered Scotland website
+P11132	Mod DB engine ID	identifier of a game engine on moddb.com
+P11133	Nouvelle-Aquitaine Inventory ID	Gertrude identifier for a cultural property in the Nouvelle-Aquitaine region
+P11134	CCB ID	identifier of a calvary or monumental cross in CCB database
+P11135	Project Identification Code (Dams)	unique codes given to large dams in National Register of India
+P11136	shortened URL formatter	URI template from which "$1" can be automatically replaced with the ID of a URL shortened by the service
+P11137	Reddit topic ID	identifier of a topic on Reddit
+P11138	Sõnaveeb lexeme ID	identifier for a lexeme in the unified dictionary hosted by the Institute of the Estonian Language
+P11139	Ma Dada organisation ID	identifier for a French public organisation in the MaDada database
+P11140	embargoed until	qualifier of property P953 (full work available at URL) to indicate the date after which the full work can be viewed or downloaded; typically used on items for academic journal articles and academic theses
+P11141	Asian Tour player ID	identifier for a person in the Asian Tour golf tournament
+P11143	WikiProjectMed ID	identifier of a topic in WikiProjectMed
+P11144	Chrome Platform Status feature ID	identifier for a feature on Chrome Platform Status
+P11145	Language of Bindings ID	identifier for a term in the Language of Bindings thesaurus
+P11146	collection items at	institution (museum, collection, etc.) holding items (specimens or other objects) collected by the subject (collector) or at the subject (e.g. site). (use archive location P485 for the archives)
+P11147	Microsoft Edge Platform Status feature ID	identifier for a feature on Microsoft Edge Platform Status feature ID
+P11148	AUTC herritage object ID	building in the Architecture and Urbanism Research Centre database
+P11149	MangaUpdates manga ID	ID of a title (work) on the MangaUpdates website
+P11150	Ministry of Unification politician ID	identifier for people in the Ministry of Unification's database of North Korean politicans
+P11151	Universal Content Identifier	South Korean national digital content identifier
+P11152	Léonore Web ID	identifier of a person on the Léonore database website
+P11153	BritBox ID (UK version)	identifier for programs and series on the BritBox video on demand streaming service in the UK
+P11154	OMED ID	identifier for an authority in the catalogue of the library of the Organization for Mediation & Arbitration (Athens)
+P11155	Municipal Library of Trikala ID	identifier for an authority in the catalogue of the Municipal Library of Trikala
+P11156	MMB ID	identifier for an authority in the catalogue of the Lilian Voudouri Music Library of Greece
+P11157	HiSCoD ID	identifier for a riot or other event in the Historical Social Conflict Database
+P11158	Dimitri and Aliki Perrotis Central Library ID	identifier for an authority in the catalogue of the Dimitris and Aliki Perrotis Central Library
+P11159	ILAMDIR ID	identifier for Latin American cultural heritage in the ILAMDIR database maintained by the ILAM Foundation
+P11160	Cannabis Database ID	identifier for a chemical compound in the Cannabis Database
+P11161	SR-Archiv band ID	identifier of a band in the SR-Archiv database
+P11162	SR-Archiv company ID	identifier of a company in the SR-Archiv database
+P11163	island code of Indonesia	identification code for islands of the Republic of Indonesia
+P11164	SR-Archiv print media ID	identifier of a print media in the SR-Archiv database
+P11165	SR-Archiv record ID	identifier of a record in the SR-Archiv database
+P11166	EuDML work ID	identifier for a work in the European Digital Mathematics Library
+P11167	NARA File Format Preservation Plan ID	identifier for a file format in NARA’s Digital Preservation Framework File Format Plans
+P11168	JioSaavn artist ID	identifier for an artist on the JioSaavn streaming service
+P11172	England Hockey ID	identifier for a person at the England Hockey: Altiusrt website
+P11173	UWIND ID	identifier in the University Women's International Networks Database
+P11174	NCUA Charter ID	number assigned to credit unions by the National Credit Union Administration
+P11175	FDIC Certificate ID	unique number assigned to a depository institution by the Federal Deposit Insurance Corporation
+P11176	Niconico ID	identifier for an object on Niconico
+P11177	Camp Wild ID	identifier for Camp Wild shelter
+P11178	Cordial Dictionary ID	identifier in the French online dictionary Cordial
+P11179	MSVF ID	identifier for an authority in the catalogue of the library of the Public Benefit Foundation Michal N. Stassinopoulos-VIOHALCO
+P11180	Central Library of Volos authority ID	identifier for an authority in the catalogue of the Central Library of Volos
+P11181	Brazilian aerodrome identification code	national identifier of Brazilian aerodromes
+P11182	UOM ID	identifier for an authority in the catalogue of the Library and Information Center of the University of Macedonia
+P11184	Bank of information on the historical and cultural heritage of the Republic of Belarus	identifier for an object in the Bank of information on the historical and cultural heritage of the Republic of Belarus
+P11185	Levadia Library ID	identifier for an authority in the catalogue of the Central Public Library of Levadia
+P11186	IHF profile ID	numerical identifier for a player on the website of the International Handball Federation
+P11187	ihg Hotel ID	identifier of a hotel operated by InterContinental Hotels Group
+P11188	Conspiracy Watch person ID	identifier for a person on Conspiracy Watch
+P11189	Louisiana Plant ID	identifier for a plant taxon on the Louisiana Plant Identification and Interactive Ecosystem Virtual Tours website
+P11190	WMOOV movie ID	identifier for a movie on the WMOOV website
+P11191	PGA of Australia player profile ID	identifier for a player profile at PGA of Australia website
+P11192	Piraeus Bank Group Cultural Foundation Library (A) ID	identifier for an authority in the catalogue A of the Piraeus Bank Group Cultural Foundation Library
+P11193	Piraeus Bank Group Cultural Foundation Library (B) ID	identifier for an authority in the catalogue B of the Piraeus Bank Group Cultural Foundation Library
+P11194	Famous Birthdays ID	identifier for entities listed on the Famous Birthdays website
+P11195	Annales des mines person ID	identifier for an engineer on the Annales des mines' website
+P11196	Baidu Tieba name	name of a specific topic driven forum in Baidu Tieba
+P11197	build system	build system used by a software during its development
+P11198	DrugCentral ID	ID of a chemical compound in DrugCentral
+P11199	Probes And Drugs ID	ID of a chemical compound in Probes And Drugs
+P11200	tiratge	number of musical bars for each section of a sardana
+P11201	official demo URL	demo website, that is officially recommended by the developers of the software, where the software can be tried out directly in the web browser
+P11202	Musicsperlacobla sardana ID	sardana identifier used by musicsperlacobla.cat archive
+P11203	Musicsperlacobla composer ID	composer identifier used by musicsperlacobla archive
+P11204	Boig Sardanista sardana ID	identifier for entities in the Boig Sardanista website
+P11205	pinout	mapping of the physical contacts of an electrical connector or electronic component to their functions
+P11206	npm scope or username	npm scope of the given software, person or organization
+P11207	IRIS UNICT author ID	identifier for an author in IRIS UNICT, the open-access repository of the University of Catania
+P11208	IRIS UNIME author ID	identifier for an author in IRIS UNIME, the open-access repository of the University of Messina
+P11209	IRIS UNIPA author ID	identifier for an author in IRIS UNIPA, the open-access repository of the University of Palermo
+P11210	IRIS UNIKORE author ID	identifier for an author in IRIS UNIKORE, the open-access repository of the Kore University of Enna
+P11211	Hlídač státu person ID	identifier of person in Hlídač státu database
+P11212	sitemap URL	URL to the sitemap of the subject's official website
+P11213	fedpress.ru person ID	fedpress.ru identifier for a person
+P11214	UNIMARC: Medium of Performance ID	identifier for a medium of performance of musical works
+P11215	OVO ID	organizational register of the Flemish government
+P11216	Best Western hotel ID	identifier for a hotel operated by Best Western
+P11217	Culinary Heritage of Switzerland ID	identifier for a food product in the Culinary Heritage of Switzerland online encyclopedia
+P11218	New Zealand Legislation ID	identifier for a statute or other legislation on the New Zealand Legislation website
+P11219	Travel Weekly hotel ID	identifier of a hotel listed on the Travel Weekly website
+P11220	fruit color	color of the fruit of a plant species, hybrid, or cultivar
+P11221	email unsubscribe URL or email	website or email address which allows a user to unsubscribe to an email subscription for news, announcements, offers and updates relating to an organisation, product or service
+P11222	Accor hotel ID	identifier of a hotel operated by Accor Hotels
+P11223	OpenCritic outlet ID	identifier of a gaming media outlet in the OpenCritic database
+P11224	Aathavanitli Gani film ID	identifier for Marathi films as described by Aathavanitli Gani website
+P11225	ID of část obce díl	ID of the auxiliary statistical territorial unit "část obce díl" accordings to the Czech statistical register RSO
+P11226	Livres Hebdo ID	identifier for a publisher or person on the website Livres Hebdo
+P11227	AniList staff ID	identifier for a staff on AniList
+P11228	Dictionary.com entry	identifier for an entry in Dictionary.com
+P11229	Golfdata ID	identifier for a golf player at Golfdata
+P11230	Collins Online English Dictionary entry	identifier for an entry in the Collins Online English Dictionary
+P11231	has biological vector	a taxon which functions as a vector for this pathogenic biological group
+P11232	EuDML journal ID	identifier of a journal in the European Digital Mathematics Library
+P11233	SciSpace author ID	identifier for an author on the SciSpace website
+P11234	Oblio author ID	identifier for an author of the Italian academic journal Oblio, regarding Italian literature
+P11235	Dams in Japan number	external identifier for Japanese dams
+P11236	SNE publisher ID	identifier for a publisher on the director of the 'Syndicat national de l'édition'
+P11237	KOBIS people ID	identifier for a people on the database of the Korea Box-Office Information System (KOBIS) provided by the Korean Film Council
+P11238	OpenML dataset ID	identifier for a dataset in the OpenML database of open datasets for machine learning
+P11239	DFK Paris person ID	identifier for a person in the German Centre for Art History (DFK Paris) databases
+P11240	PIM publication ID	identifier of the Petőfi Literary Museum's database of books, journals
+P11241	Pittori Liguri ID	identifier for a painter from Liguria (Italy) in the website Pittori Liguri
+P11242	USTC ID	identifier of an edition in the Universal Short Title Catalogue
+P11243	EPA ID	identifier of a periodical in the Electronic Periodical Archive of the National Széchényi Library
+P11244	Databank Beschermheiligen anno 1959 ID	numeric identifier in the database of patron saints in the Netherlands and Flanders
+P11245	YouTube handle	unique identifier of a person, organization or channel on YouTube; do not include the "@" symbol
+P11246	hackage package	name of a package on Hackage
+P11247	Observation.org location ID	Identifier for a locationon Observation.org
+P11248	Diskograf artist ID	identifier for an artist in the Diskograf database
+P11249	KBR person ID	identifier for a person in the online public catalogue of the Royal Library of Belgium (KBR)
+P11250	Miraheze article ID	identifier of an article on Miraheze. Format: subdomain:Page_title
+P11251	ILNM ID	identifier for an item in the Federal Inventory of Landscapes and Natural Monuments of National Importance of Switzerland
+P11252	Trismegistos author ID	identifier for an ancient author in the papyrological database Trismegistos
+P11253	Packagist package	identifier of a package on Packagist
+P11254	translation contribution URL	URL of a website where you can contribute translations to the subject
+P11255	Cinemaazi people ID	identifier for a person in cinemaazi.com, a encyclopedic resource about Indian cinema by the Indian Cinema Heritage Foundation
+P11256	Cinemaazi film ID	identifier for a film in cinemaazi.com, a encyclopedic resource about Indian cinema by the Indian Cinema Heritage Foundation
+P11257	MAK Collection Online person ID	identifier for a person in the MAK Collection Online
+P11258	MAK Collection Online object ID	identifier for an object in the MAK Collection Online
+P11259	BookWalker series ID (JP version)	identifier for a book series on Japanese version of BookWalker
+P11260	list item	qualifier for "union of" (P2737) and "disjoint union of" (P2738) to identify constituent entities
+P11261	toli.query.mn lexeme ID	identifier for a lexeme in the Mongolian dictionary at toli.query.mn
+P11262	toli.gov.mn lexeme ID	identifier for a lexeme in the Mongolian dictionary at toli.qov.mn
+P11263	The Britannica Dictionary entry	identifier for an entry in The Britannica Dictionary
+P11264	mongoltoli.mn lexeme ID	identifier for a lexeme in the Mongolian dictionary at mongoltoli.mn
+P11265	alt text	alternative text used when an image can't be rendered or when accessed from assistive technology such as a screen reader
+P11266	contact page URL	URL to the official page listing the subject's contact information or a contact form
+P11267	Nomenclature de tous les noms de rosiers ID	identifier of a rose cultivar in "Nomenclature de tous les noms de roses, connus, avec indication de leur race, obtenteur, année de production, couleur et synonymes", 2nd edition, by Léon Simon and Pierre Cochet
+P11268	press information URL	URL to the official page of the subject's press kit
+P11269	changeset	URI to a changeset in an online version control system
+P11270	RomArchive person ID	identifier for a person or organization on RomArchive
+P11271	African American Visual Artists Database ID	identifier for entry on African American Visual Artists Database
+P11272	Bureau of Meteorology location ID	identifier of a location within Australia on the Bureau of Meteorology website providing weather observations and forecasts
+P11273	Epigraphic Database Heidelberg ID	identifier for Latin and bilingual (usually Latin/ancient Greek) inscriptions
+P11274	Dicionário de Gentílicos e Topónimos lemma ID	identifier for a lemma in the toponym and demonym dictionary published by O Instituto de Linguística Teórica e Computacional
+P11275	manchu.work lexeme ID	identifier for a Manchu lexeme in the online dictionary set up by 纳罕哈哈
+P11276	Professional Referee Organization ID	identifier for a professional soccer referee by the Professional Referee Organization on proreferees.com
+P11277	CIViC gene ID	identifier for a human gene in the CIViC database
+P11278	Athletics Canada ID	identifier for an athlete's page on Athletics Canada website
+P11279	is a number of	this entity is a number representing the quantity of this item
+P11280	Ma'agarim ID	identifier for a Hebrew lexeme in the Historical Dictionary Project of the Academy of the Hebrew Language
+P11281	Biographical Dictionary of the Australian Senate ID	an entry in the Biographical Dictionary of the Australian Senate
+P11282	Tanzania Parliament member ID	identifier for a member of the Parliament of Tanzania
+P11283	JCDb ID	identifier for a film in the Japanese Cinema Database
+P11284	Dictionnaire de l'Académie française ID (1st edition)	identifier for a lexeme on the 1st edition of the Dictionnaire de l'Académie française on the Académie française website
+P11285	Dictionnaire de l'Académie française ID (2nd edition)	identifier for a lexeme on the 2nd edition of the Dictionnaire de l'Académie française on the Académie française website
+P11286	Dictionnaire de l'Académie française ID (3rd edition)	identifier for a lexeme on the 3rd edition of the Dictionnaire de l'Académie française on the Académie française website
+P11287	Dictionnaire de l'Académie française ID (4th edition)	identifier for a lexeme on the 4th edition of the Dictionnaire de l'Académie française on the Académie française website
+P11288	Dictionnaire de l'Académie française ID (5th edition)	identifier for a lexeme on the 5th edition of the Dictionnaire de l'Académie française on the Académie française website
+P11289	Dictionnaire de l'Académie française ID (6th edition)	identifier for a lexeme on the 6th edition of the Dictionnaire de l'Académie française on the Académie française website
+P11290	Dictionnaire de l'Académie française ID (7th edition)	identifier for a lexeme on the 7th edition of the Dictionnaire de l'Académie française on the Académie française website
+P11291	Dictionnaire de l'Académie française ID (8th edition)	identifier for a lexeme on the 8th edition of the Dictionnaire de l'Académie française on the Académie française website
+P11292	man page	man page that describes the subject
+P11293	Amazon.com browse node	node related to this concept on amazon.com
+P11294	TV Maze episode ID	identifier for a television series episode on the TV Maze film database
+P11295	International Computer Game Collection work ID	identifier of a work in the International Computer Game Collection online database
+P11296	Cultural Good of Croatia ID	reference number in the Register of Cultural Goods of Croatia
+P11297	JLect entry ID	identifier for an entry in JLect - Japonic Languages and Dialects Database Dictionary
+P11298	Open Korean Knowledge Dictionary sense ID	identifier for a sense of a lexeme in the open dictionary hosted by the National Institute of Korean Language
+P11299	Packard Humanities Institute (PHI) Greek Inscriptions ID	identifier for an ancient Greek inscription in the database Packard Humanities Institute (PHI) Greek Inscriptions
+P11300	MyAnimeList magazine ID	Identifier for a manga magazine on MyAnimeList
+P11301	Online Torwali Dictionary ID	identifier for a word or phrase in the CLE Online Torwali Dictionary
+P11302	Google Product Taxonomy ID	ID for the product related to this concept on the Google Product Taxonomy
+P11303	IRIS UNIBA author ID	identifier for an author in IRIS UNIBA, the open-access repository of the University of Bari
+P11304	IRIS UNIFG author ID	identifier for an author in IRIS UNIFG, the open-access repository of the University of Foggia
+P11305	IRIS LUM author ID	identifier for an author in IRIS LUM, the open-access repository of the Libera Università Mediterranea
+P11306	IRIS UNISALENTO author ID	identifier for an author in IRIS UNISALENTO, the open-access repository of the University of Salento
+P11307	tuxDB game ID	identifier of a video game in the tuxDB database
+P11308	GCD issue ID	identifier for a comic book issue in the Grand Comics Database (GCD)
+P11309	Geograph Deutschland image ID	identifier for an image from Geograph Deutschland
+P11310	ResearchGate journal ID	identifier of a journal in ResearchGate
+P11311	Lygaeoidea Species File ID	identifier for a taxon on the Lygaeoidea Species File website
+P11312	Beatport release ID	identifier for a release on Beatport.com music site
+P11313	Diskograf song ID	identifier of a song given by Diskograf online database
+P11314	Diskograf label ID	identifier for a Malaysian record label in the Diskograf database
+P11315	INKR title ID	identifier for a comic on INKR Comics
+P11316	BRUZZ topic ID	identifier for a topic on the BRUZZ website
+P11317	negates property	this property negates the specified property
+P11318	Kanjipedia kanji ID	identifier for a kanji on Kanjipedia
+P11319	Little Academic Dictionary ID	identifier for a lexeme in the Малый академический словарь (1999) as hosted on the Fundamental Electronic Library of Russian Literature and Folklore
+P11320	Play:Right series ID	identifier of a video game series in the Play:Right database
+P11321	Play:Right company ID	identifier of a company in the Play:Right database
+P11322	18th Century Russian Dictionary ID	identifier for a lexeme in the Словарь русского языка XVIII века (1984-1991) as hosted on the Fundamental Electronic Library of Russian Literature and Folklore
+P11323	Mac OS creator code	code used formerly by Mac OS to identify file and program creators
+P11324	Parliamentary Archives ID in United Kingdom	identifier of this item on the Parliamentary Archives website
+P11325	Parliamentary Office number in United Kingdom	reference number assigned by the Clerk of the Parliaments to original Acts of Parliament passed in a given Parliamentary session to be kept in the House of Lords Record Office (now the Parliamentary Archives)
+P11326	impressum URL	URL to the impressum or imprint of the subject's official website
+P11327	membership number	number given to an entity to identify them within an organization
+P11328	Dehkhoda ID	identifier in the Dehkhoda Dictionary of Persian as hosted by the University of Tehran
+P11329	Game-Rave ID	identifier of a video game in the Game-Rave database of PlayStation video games
+P11330	Crunchyroll series ID	identifier for an anime series on Crunchyroll
+P11331	CCFr document ID	identifier for a document on the collective catalog of France
+P11332	MTV Germany music video ID	identifier for an music video on MTV Germany site
+P11333	Expertes ID	identifier of a woman on the expertes.fr website
+P11334	CSO topic ID	Computer Science Ontology topics: automatically generated taxonomy of research topics in the field of Computer Science
+P11335	Shōsetsuka ni Narō work ID	identifier for a work on Shōsetsuka ni Narō
+P11336	Fascist Latin Texts author ID	ID for an author in Fascist Latin Texts database
+P11337	Twitter community ID	identifier of the Twitter community about the subject
+P11338	worldofsam ID	identifier of a product in the worldofsam database of SAM Coupé software
+P11339	Can I Play That? Games Codex game ID	identifier of a video game in the Can I Play That? Games Codex
+P11340	ntower ID	identifier of a video game in the ntower database
+P11341	OpenStates person ID	identifier for person entries in OpenStates.org
+P11342	Indiana State Historical Marker Program numeric ID	
+P11343	The Israeli Opera person ID (heb)	identifier for a person on The Israeli Opera website
+P11344	French basketball championship ID (new schema)	new schema for the identifiers of the French league of basketball
+P11345	Cinematografo.it name or company ID (new)	Cinematografo.it name or company ID
+P11346	Cinematografo.it film ID (new)	identifier for a film in the Italian website Cinematografo.it
+P11347	Scottish National Dictionary lexeme ID	identifier for a word in the Scottish National Dictionary at dsl.ac.uk
+P11348	Anime-Planet manga ID	identifier for a manga on Anime-Planet
+P11349	Anime-Planet anime ID	identifier for an anime on Anime-Planet
+P11350	Urdu Lughat ID	identifier for a word in the Urdu Lughat dictionary
+P11351	Czech structural object ID	identifier of building in the RÚIAN database in the Czech Republic
+P11352	Anime-Planet character ID	identifier for a character on Anime-Planet
+P11353	Anime-Planet people ID	identifier for a person on Anime-Planet
+P11354	Bandcamp release ID	identifier for a release in the Bandcamp database
+P11355	KOBIS film festival ID	identifier for a film festival in the KOBIS database
+P11356	grading system	value indicators used by educators to evaluate the performance of the pupils in exams on the standard particular scales which is based on the points entirely and consist of the grades like A-F or range like 1-10
+P11357	MangaUpdates author ID	identifier for an author on MangaUpdates
+P11358	MangaUpdates publisher ID	identifier for a publisher on MangaUpdates
+P11359	GBDB ID	identifier of a video game in the GBDB database
+P11360	Play:Right class ID	identifier of a class (arcade system) in the Play:Right database
+P11361	Adventure's Planet ID	identifier of a video game in the Adventure's Planet database
+P11362	NSR stopplace ID	identifier for a public transport stop in the Norwegian National Stop Register
+P11363	BookWalker series ID (global version)	identifier for a book series on global version of BookWalker
+P11364	Aathavanitli Gani song ID	identifier for Marathi musical works as described by Aathavanitli Gani website
+P11365	Archaeology Data Service ID	identifier for a work in the Archaeology Data Service Library database
+P11366	Archives West repository ID	identifier for retrieval of finding aids for a repository on Archives West
+P11367	AHNMNH publication ID	identifier for a publication in the Annales Historico-Naturales Musei Nationalis Hungarici
+P11368	Betrail runner ID	ID for a trail runner in France and Benelux on the Betrail website
+P11369	Bane NOR Network Statement ID	identifier for Norwegian railway stations and lines in Bane NOR's Network Statement
+P11370	Canadian Broadcasting Corporation Gem ID	Identifier for a Canadian Broadcasting Corporation GEM (a media URL for a television series, television episodes, documentaries, or other media)
+P11371	Cimetière russe ID	identifier for a person on 'Cimetière russe' project
+P11372	CocoaPods pod	entry for an project in CocoaPods
+P11373	Central Product Classification Code version 2.1	classification code of a good or service as issued in version 2.1 of the Central Product Classification published by the United Nations Statistical Commission
+P11374	Copernicus EMS ID	Copernicus Programme Emergency Management Service rapid mapping activation code
+P11375	CSD Refcode	Unique alphanumeric ID assigned by the CCDC to a crystal structure when it is added to the CSD
+P11376	Game Boy hardware database ID	identifier of a video game cartridge in the Game Boy hardware database
+P11377	Sega-Saturn.net ID	identifier of a video game in the Sega-Saturn.net database
+P11378	DML-CZ publication ID	identifier for a publication in DML-CZ (Czech Digital Mathematics Library)
+P11379	Dongqiudi.com player ID	identifier for an association football/soccer player on Dongqiudi.com
+P11380	ECOF saint ID	identifier for a saint on the website of the 'Confrérie Saint-Irénée', affiliated to the ECOF
+P11381	Famicom World ID	identifier of a video game in the Famicom World database
+P11385	camera lens	camera lens item used by the photo or video camera; or in a photo item, the lens used to take it
+P11386	Listal ID	identifier for a person, a character, a creation or a place in the Listal database
+P11387	image processor	digital camera image processor
+P11388	Hilton Hotel ID	identifier of a hotel operated by Hilton Hotels
+P11389	Flemish Heritage designation object ID	identifier for a designation object in the database of the Flemish organization for Immovable Heritage
+P11390	IDG IT-ord ID	identifier for Swedish IT words in IDG IT-ord
+P11391	Nintendo World Report ID	identifier in the Nintendo World Report database
+P11392	Nintendo-Online ID	identifier of a video game in the Nintendo-Online database
+P11393	RetroAchievements ID	identifier in the RetroAchievements database
+P11394	Internet Sacred Text Archive ID	identifier for an entry on the Internet Sacred Text Archive website
+P11395	ISFDB award ID	identifier for an award in the Internet Speculative Fiction Database
+P11396	KOBIS film company ID	identifier for a film company in the database of the Korea Box-Office Information System (KOBIS) provided by the Korean Film Council
+P11398	LMI ID	unique ID of geographical location in Iceland from the database of Landmælingar Íslands (National Land Survey of Iceland) that holds information about the location name, GPS coordinates, type and akas
+P11399	Mertens-Pack 3 Number	ID for a work on the Mertens-Pack 3 Online Database
+P11400	microtransaction.zone ID	identifier of a video game in the microtransaction.zone database
+P11401	note.com user ID	identifier for a user on note.com
+P11402	NSR doctor ID	identifier of a Malaysian doctor on the database of National Specialist Register
+P11403	Occitanie Livre et Lecture ID	identifier for a person or an organization on the directory of Occitanie Livre et Lecture
+P11404	Oh!FM-7 ID	identifier of an item in the Oh!FM-7 database
+P11405	Olympedia venue ID	identifier for a venue in the Olympedia database
+P11406	CRAB ID	CRAB street code for streets in Flanders, Belgium
+P11407	Ozon person ID	identifier for a person on the website of the Russian online store Ozon
+P11408	Pixiv Encyclopedia ID	identifier for an article on Pixiv Encyclopedia
+P11409	Plazi reference ID	identifier corresponding to publications and scholarly articles relating to taxonomy, stored in Plazi
+P11410	Programming Language Database ID	identifier for a programming language's unique ID in the Programming Language Database
+P11411	Pocket Gamer ID	identifier of a video game in the Pocket Gamer database
+P11412	minimum focusing distance	minimum focusing distance between the camera and the object required by the objective to be able to focus
+P11413	sampling rate	frequency at which a system measures a continuous-time signal
+P11414	Museo Egizio in Turin ID	authority identification for an object in the collections of the Museo Egizio in Turin
+P11415	image stabilizer	system to achieve image stabilization in photographs and video
+P11416	Strong's number	number to identify Ancient Greek and Hebrew lexical items attested in the Bible
+P11417	Le Grenier du Mac ID	identifier of a video game in the Le Grenier du Mac database
+P11418	RPG Site game ID	identifier of a video game in the RPG Site database
+P11419	Classic Adventures Solution Archive game ID	identifier of a video game in the Classic Adventures Solution Archive database
+P11420	Middle English Dictionary entry ID	identifier of an entry in the Middle English Dictionary
+P11421	Taiwanese-Japanese Dictionary ID	identifier of a lexeme in the Taiwanese-Japanese Dictionary
+P11422	Cambridge Dictionary entry (British English)	identifier for an entry in the British English version of the Cambridge Dictionary
+P11423	Cambridge Dictionary entry (American English)	identifier for an entry in the American English version of the Cambridge Dictionary
+P11424	service options	options for eating at a restaurant, café, etc
+P11425	Dark Patterns Games ID	identifier of a mobile game in the Dark Patterns Games database
+P11426	amstrad.es ID	identifier of a video game in the amstrad.es database
+P11427	UVL source ID	identifier of a source in the Universal Videogame List
+P11428	Rugby League Record Keepers Club player ID	identifier for a player on the Rugby League Record Keepers Club website
+P11429	NIP	Public official identifier in Indonesia
+P11430	UniProt disease ID	identifier for a disease in the UniProt database
+P11431	DBpia journal ID	identifier for a journal in the DBpia database provided by Nurimedia
+P11432	Garuda journal ID	identifier of a Indonesian scientific publication (journal and conference) in the Indonesian Garba Rujukan Digital (Garuda)
+P11433	Hungarian Film Archive person ID	ID of a person in the database of the Hungarian Film Archive
+P11434	ComingSoon.it person ID	identifier for a person on the website ComingSoon.it
+P11436	DBpia publisher ID	identifier for a publisher in the DBpia database provided by Nurimedia
+P11437	Disused stations ID	ID for a former UK railway station at the Disused stations site
+P11438	MQWW poet ID	poet ID of the Ming Qing Women's Writings (MQWW) database
+P11439	Nîmes cemeteries ID	identifier for a person buried in one of the public cemeteries of Nîmes
+P11440	REGON ID	registration number of a business entity in Poland
+P11441	Shōsetsuka ni Narō user ID	identifier for a user on Shōsetsuka ni Narō
+P11442	SINTA journal ID	identifier of a journal in the Science and Technology Index (SINTA)
+P11443	SINTA author ID	identifier of an author in the Science and Technology Index (SINTA)
+P11444	SMA ID	identifier for a religious on the SMA website
+P11445	Spiritains ID	identifier for a person on the website of the Holy Ghost Fathers
+P11446	Strazha ID	identifier of past or present MPs and legislative terms of the National Assembly of Bulgaria on Strazha.bg
+P11447	Tabelog restaurant ID	identifier for an individual restaurant on Tabelog
+P11449	TV Maze person ID	ID for a person on TV Maze
+P11451	utas.hu ID	identifier for Hungarian train stations, bus stations and bus stops
+P11452	VG-lista album ID	identifier for an album on the record chart VG-lista's website
+P11454	Afisha person ID	identifier for a person on Afisha
+P11455	Catalogo storico ragionato degli scrittori sardi dal IV al XXI secolo ID	identifier for an Italian author from Sardinia in the Catalogo storico ragionato degli scrittori sardi dal IV al XXI secolo
+P11456	Macmillan Dictionary entry (British English)	identifier for an entry in the British English version of the Macmillan Dictionary
+P11457	Macmillan Dictionary entry (American English)	identifier for an entry in the American English version of the Macmillan Dictionary
+P11458	Wyndham hotel ID	numerical identifier for a hotel operated by Wyndham Hotels
+P11459	VideoGameGeek series/franchise ID	identifier of a video game series or franchise in the VideoGameGeek database
+P11460	Plex media key	24 hex character identifier for media item on Plex; different than watch.plex.tv url slug
+P11461	Digital Hanja Dictionary ID	ID for a Korean Han character in Digital Hanja Dictionary
+P11462	Africultures structure ID	identifier for a structure at Africultures.com
+P11463	travel advisory category	advisory category issued by a government regarding travel to another country or territory
+P11464	model lexeme	model lexeme entity for a paradigm, conjugation class, etc.
+P11465	Military Historical Archive exile army member ID	identifier for a member of the Czech exile army (WW2) in the database of the Czech Military Historical Archive
+P11466	The Israeli Opera (English) person ID	identifier for a person in English on The Israeli Opera website
+P11467	J.League referee ID	identifier for association football referee on Japan Professional Football League website
+P11468	PodLink ID	ID for a podcast on Podlink, a podcast link sharing and landing page service
+P11469	VG-lista song ID	identifier for a song on the record chart VG-lista's website
+P11470	Webtoon creator ID	identifier for a comics creator in Webtoon platform
+P11471	WikiRate company ID	ID of an organization at WikiRate
+P11472	Yahoo! Japan News publisher ID	identifier for a publisher on Yahoo! Japan News
+P11473	Concepticon concept set ID	ID for a concept set in Concepticon
+P11474	Ès lettres ID	identifier for a record on "Ès lettres"
+P11475	Dictionary of Variant Chinese Characters ID	ID for a sinogram in the Dictionary of Variant Chinese Characters from Taiwan (used in item only, not lexeme)
+P11476	eBookJapan books ID	identifier for a book series on eBookJapan
+P11477	STEDT ID	identifier for an etymon in STEDT (Sino-Tibetan Etymological Dictionary and Thesaurus)
+P11478	Matrix room ID	identifier for the official Matrix room of an institution or project
+P11479	British Music Collection score ID	identifier for a musical composition on the British Music Collection website
+P11480	Nişanyan Sözlük lexeme ID	identifier for a Lexeme on the online Nişanyan dictionary
+P11481	Green's Dictionary of Slang ID	identifier for an entry in the online edition of Green's English slang dictionary
+P11482	Longman Dictionary of Contemporary English Online entry	identifier for an entry in the Longman Dictionary of Contemporary English Online
+P11483	Anadolu Agency infographic ID	identifier for an infographic by Anadolu Agency
+P11484	does not use	item or concept not used by the subject but that could have been expected
+P11485	Infopédia entry	identifier for an entry on Infopédia Portuguese dictionary
+P11486	1001Tracklists track ID	identifier for a music track on 1001Tracklists
+P11487	1001Tracklists DJ ID	identifier for a disc jockey on 1001Tracklists
+P11489	1001Tracklists source ID	identifier for a source (event, radio, etc.) on 1001Tracklists
+P11490	MyAnimeList company ID	identifier for a company on MyAnimeList
+P11491	member of Roman tribe	Roman tribe in which one was inscribed
+P11492	MQWW work ID	work ID of the Ming Qing Women's Writings (MQWW) database
+P11493	Biblissima authority ID	identifier of an entity in the Biblissima database
+P11494	Kitsu manga ID	identifier for a manga on Kitsu
+P11495	Kitsu anime ID	identifier for an anime on Kitsu
+P11496	CiNii Research ID	19-digits identifier in CiNii Research
+P11497	Digital Library of Mathematical Functions ID	identifier for a function in the NIST Digital Library of Mathematical Functions
+P11500	United States House of Representatives ID	ID of a person in United States House of Representatives
+P11501	ComicWalker content ID	identifier for a series or a chapter on ComicWalker
+P11502	The Numbers franchise ID	identifier of a movie franchise at The Numbers
+P11503	Jeju's culture and language ID	ID of a lexeme in Jeju's culture and language
+P11504	J-STAGE journal ID	identifier for journal home pages in J-STAGE
+P11505	Film.ru serial ID	TV series ID on Film.ru
+P11506	IRIS UNITN author ID	identifier for an author in IRIS UNITN, the open-access repository of the University of Trento
+P11507	IRIS FBK author ID	identifier for an author in IRIS FBK, the open-access repository of the Fondazione Bruno Kessler
+P11508	IRIS-OpenPub author ID	identifier for an author in IRIS-OpenPub, the open-access repository of the Edmund Mach Foundation
+P11509	Muse Open Archive author ID	identifier for an author in Muse Open Archive, the open-access repository of the MUSE - Science Museum (Trento, Italy)
+P11510	ARCA author ID	identifier for an author in ARCA, the open-access repository of the Ca' Foscari University of Venice
+P11511	Air Iuav author ID	identifier for an author in Air Iuav, the open-access repository of the IUAV University of Venice
+P11512	Intercontinental Dictionary Series unit ID	identifier of an Intercontinental Dictionary Series unit
+P11513	Hungarian Football Federation player ID	player ID on mlsz.hu
+P11514	Great Russian Encyclopedia portal ID	identifier of an entry on the web portal based on the Great Russian Encyclopedia and formerly known as "Knowledge" (for the older version of encyclopedia use P2924)
+P11515	MangaSeek work ID	identifier for a manga work on MangaSeek
+P11516	MangaSeek magazine ID	identifier for a manga magazine on MangaSeek
+P11517	MangaSeek award ID	identifier for a manga award on MangaSeek
+P11518	Oroklini Library ID	identifier for an authority in the catalogue of the Oroklini Library
+P11519	elexiko ID	identifier for a lexeme in the elexiko dictionary
+P11520	OWID Neologismenwörterbuch ID	identifier for a lexeme in the Neologismenwörterbuch (Dictionary of Neologisms) at owid.de
+P11521	OWID Deutsches Fremdwörterbuch ID	identifier for a lexeme in the German dictionary of foreign words at owid.de
+P11522	OWID Sprichwörterbuch ID	identifier for a lexeme in the dictionary of sayings at owid.de
+P11523	OWID Kommunikationsverben ID	identifier for a lexeme in the communication verbs dictionary at owid.de
+P11524	Kleines Wörterbuch der Verlaufsformen im Deutschen ID	identifier for a lexeme in the Kleines Wörterbuch der Verlaufsformen im Deutschen (Small Dictionary of Progressive Forms in German)
+P11525	PR TIMES company ID	identifier for a company on PR TIMES
+P11526	Dicionário Priberam ID	identifier for entries on Dicionário Priberam
+P11527	applies to use with property	qualifier that specifies that the statement refers to usage with the property
+P11528	NPB umpire ID	identifier for umpire on the Nippon Professional Baseball official website
+P11529	Magazine Pocket series ID	identifier for a manga on Magazine Pocket
+P11530	addons.mozilla.org user	identifier of a user on addons.mozilla.org
+P11531	Packagist username	username of the subject on Packagist
+P11532	Hackage username	username of the subject on Hackage
+P11533	RubyGems username	username of the subject on RubyGems
+P11534	PyPI username	username of the subject on PyPI
+P11535	Dictionary of Frequently-Used Taiwanese Hokkien ID	ID of a lexeme in Dictionary of Frequently-Used Taiwanese Hokkien (issued prior to its supersession in June 2023 by sutian.moe.edu.tw)
+P11536	Ushakov Dictionary ID	identifier for a word in the Толковый словарь русского языка (1935-1940) as hosted on the Fundamental Electronic Library of Russian Literature and Folklore
+P11537	Glitchwave franchise ID	identifier for a video game franchise on Glitchwave
+P11538	Glitchwave game company ID	identifier for a video game company on Glitchwave
+P11539	Glitchwave game ID	identifier for a video game's main entry on Glitchwave
+P11540	Glitchwave platform ID	identifier for a gaming platform on Glitchwave
+P11541	Glitchwave character ID	identifier for a video game character on Glitchwave
+P11542	Artlog artist ID	identifier for a person or artist collective on Artlog
+P11543	pixiv comic work ID	identifier for a manga series publicly available on pixiv comic
+P11544	pixiv comic product ID	identifier for a manga series sold on pixiv comic
+P11545	British Music Collection composer ID	identifier for a composer on the British Music Collection website
+P11546	Los Angeles County Medical Examiner's Office Case Search person ID	identifier for a person whose autopsy was conducted by the Los Angeles County Department of Medical Examiner
+P11547	Happy Planet Index score	The Happy Planet Index (HPI) is an index of human well-being and environmental impact that was introduced by the New Economics Foundation in 2006
+P11548	Roblox experience ID	identifier for a Roblox experience (game) hosted on Roblox
+P11549	WW1 fallen/missing soldier ID (MHA)	identifier for a fallen/missing Austrian-Hungarian soldier from the area of later Czechoslovakia in the database of the Czech Military Historical Archive
+P11550	RISM siglum	siglum assigned by the Répertoire international des sources musicales to institutions worldwide (libraries, archives and private collections) that hold historical musical materials
+P11551	N-Anime anime ID	identifier for an anime on N-Anime
+P11552	N-Anime seiyū ID	identifier for a seiyū on N-Anime
+P11553	Livres Hebdo author ID	alphanumerical identifier of an author on the Livres Hebdo website
+P11554	International Encoded Han Character and Variants Database ID	identifier for a Chinese character on International Encoded Han Character and Variants Database
+P11555	Artlog institution ID	identifier for an institution on Artlog
+P11556	credits URL	URL of an official webpage with a list of credits and roles attributed to various people, organizations or applications that contribute(d) to this item's existence
+P11557	Barcelona City Council Heritage Catalog ID	identifier of a protected element in the architectural heritage register of Barcelona municipality
+P11558	digital equivalent of	what the subject is the digital equivalent of
+P11559	TikTok place ID	identifier for a place in TikTok
+P11562	Jiddisch-Nederlands Woordenboek ID	(on hold until questions of identifier stability are addressed) identifier for a lexeme in the online dictionary hosted by the Stichting Jiddische Lexicografie Amsterdam
+P11563	Real Academia de Doctores de España ID	identifier for a member of the Real Academia de Doctores de España
+P11564	AllMovie genre ID	identifier for a film or television genre on the AllMovie film database
+P11565	authors.gr ID	identifier for a writer who is a member of the Hellenic Authors' Society
+P11567	Dictionary of Archives Terminology ID	identifier for an entry in the Society of American Archivists' Dictionary of Archives Terminology
+P11570	Database of Photography Books profile ID	numeric identifier for a photographer, writer or publisher on the photography bibliography database Base de Dados de Livros de Fotografia (BDLF)
+P11571	ESID	identifier of a street, square or place in the official register of streets in Switzerland.
+P11572	DOSBox Compatibility ID	lists games as broken, runnable, playable or supported with given DOSBox versions
+P11573	Internet Game Database franchise ID	identifier for a video game franchise on IGDB
+P11574	Professional shogi player number	the number assigned to professional shogi players by the Japan Shogi Association
+P11575	Bosworth-Toller's Anglo-Saxon Dictionary Online ID	ID of a entry in Bosworth-Toller's Anglo-Saxon Dictionary Online for Old English
+P11576	Norwegian war prisoner detention camp ID	identification number in the Norwegian prisoner register 1940 -1945 for a detention camp
+P11577	said to be the same as lexeme	some source considers this lexeme to be the same lexeme or a spelling variant of another lexeme
+P11578	Qobuz artist numeric ID	numeric identifier for an artist on Qobuz (use as qualifier of P7071, or as reference)
+P11580	Sindhi English Dictionary ID	identifier for a word in the online Sindhi-English Dictionary originally supervised by Sarmad Hussain of the Center for Research in Urdu Language Processing
+P11581	Dicio ID	identifier for an entry on Dicio Portuguese dictionary
+P11582	Dicionário Aulete ID	identifier for an entry on Dicionário Aulete Portuguese dictionary
+P11583	GLANSIS ID	identifier for a taxon in the Great Lakes Aquatic Nonindigenous Species Information System (GLANSIS)
+P11584	Léxico ID	identifier for entries on Léxico Portuguese dictionary
+P11585	ESPN.com tennis player ID	identifier for a tennis player on ESPN.com website
+P11586	Encyclopedia of Italian ID	identifier for an entry in the Enciclopedia dell'italiano (Encyclopedia of Italian) on the website of the Institute of the Italian Encyclopaedia
+P11587	Iowa legislator ID	identifier for a profile in the Iowa Legislators Past and Present database
+P11588	Rate Your Music film genre ID	identifier for a film genre on Rate Your Music
+P11589	Fallout Wiki ID	identifier for a Fallout Wiki article
+P11590	stamp perforation	type of perforation for a series of stamps
+P11591	Museu Paulista iconography ID	unique identifier for items of the iconography collection of Museu Paulista
+P11592	Museu Paulista objects ID	unique identifier for items of the objects collection of Museu Paulista
+P11593	Inequality-adjusted Human Development Index	Inequality-adjusted Human Development Index (IHDI) value of a country
+P11594	Spreaker show ID	numeric identifer for a podcast on Spreaker
+P11595	TVer series ID	identifier for a television series on TVer
+P11596	TVer tarento ID	identifier for a tarento on TVer
+P11597	Padua Research Archive author ID	identifier for an author in Padua Research Archive, the open-access repository of the University of Padua
+P11598	Rate Your Music film ID	identifier for a film on Rate Your Music
+P11599	Fonts In Use identifier	identifier of a typeface on the typography archive website Fonts In Use
+P11600	Rate Your Music venue ID	identifier for a venue on Rate Your Music
+P11601	beniculturali.it place ID	identifier for a place on the website of the Italian Ministry of Culture
+P11602	Jeju Dialect Dictionary ID	identifier for a Jeju language word in the online dictionary hosted by the Jeju provincial government
+P11603	transcribed by	person who has made a copy of a manuscript text
+P11604	Soprintendenza di Salerno place ID	identifier for a place on the website of the Soprintendenza Archeologia, belle arti e paesaggio per le province di Salerno e Avellino
+P11605	Online Aboriginal Language Dictionary ID	identifier of a lexeme in one of the indigenous languages of Taiwan in the dictionary at e-dictionary.ilrdf.org.tw
+P11606	Mosfilm movie ID	movie page in Mosfilm online cinema
+P11607	Mosfilm person ID	page of the actor, director, screenwriter in the Mosfilm online cinema
+P11608	Adventure Game Studio game ID	identifier of video game project in the Adventure Game Studio database
+P11610	National Grid Balancing Mechanism unit ID	Unit identifier for the UK National Grid electricity Balancing Mechanism
+P11611	Norwegian media rating	age rating system for motion pictures, video and tv content used in Norway
+P11613	SACEM Museum artist ID	identifier for an artist on the SACEM Museum website
+P11614	WSJ article ID	unique identifier of an article on The Wall Street Journal
+P11615	InfluenceWatch influencer	article on influencewatch.org for person, organization or legislation
+P11616	World Sailing sailor ID	official identifier for a sailor in the World Sailing (formerly ISAF) database
+P11617	WiKirby ID	identifier for a WiKirby wiki article
+P11618	SFMTA ID	identifier for stopplace on the SFMTA (San Francisco) transport network
+P11619	Full Fact ID	identifier on the Full Fact website
+P11620	Hungarian National Namespace place ID (new)	identifier for a place in the Hungarian National Namespace
+P11621	Hungarian National Namespace person ID (new)	identifier for a person in the Hungarian National Namespace
+P11622	Rate Your Music concert ID	identifier for a concert on Rate Your Music
+P11623	NCI Drug Dictionary ID	identifier of an entry in the NCI Drug Dictionary
+P11624	HAA member ID	identifier of the data-sheet of members of the Hungarian Art Academy
+P11625	Spotify user ID	identifier for a Spotify user profile, usually representing a person or organization
+P11626	Vintage Fashion Guild label	label identifier on the Vintage Fashion Guild website
+P11627	Lighthouse Directory page	group string for the item in The Lighthouse Directory
+P11628	Biographical Dictionary of Emigrants of Georgia ID	identifier for a person in the Biographical Dictionary of Emigrants of Georgia
+P11629	Fréjus et Toulon ID	identifier for a cleric on the website of the Fréjus and Toulon diocesan archives
+P11630	Swiss Games Garden game ID	identifier of a video game in the Swiss Games Garden database
+P11631	ERA ID	identifier of an operational point for the European Union Agency for Railways
+P11632	Sky News topic ID	identifier for a topic on the Sky News website
+P11633	colocated with	event sharing location, facility or organization with another, typically larger event
+P11634	Russian Second League player ID	identifier for a player at the Russian Second League
+P11635	Modrinth project ID	identifier for a project on the Modrinth website
+P11636	Akademi Kernewek ID	identifier for Cornish place names database entry
+P11637	Wattpad username	identifier for a Wattpad user profile, usually representing a person or alternatively an organization
+P11638	The Counted person ID	identifier for a person in The Counted database created by The Guardian
+P11639	L’Équipe team ID	identifier for a sports team in the L’Équipe database
+P11640	Hart Island Project person ID	identifier for a person buried in New York's City Cemetery on Hart Island, Bronx, New York
+P11641	explain xkcd ID	identifier for an explain xkcd article
+P11642	La grammatica italiana ID	identifier for an item in La grammatica italiana on the website of the Institute of the Italian Encyclopaedia
+P11643	CurseForge project ID	identifier for a project on the CurseForge website
+P11644	STS program ID	page of the program, series or film on the STS website
+P11645	Electronic library encyclopedia.com.ua	identifier at the encyclopedia.com.ua
+P11646	Deutsche Synchronkartei person ID	identifier for persons in the synchronisation (dubbing) database Deutsche Synchronkartei
+P11647	Dictionary of South African English entry ID	identifier for an entry in A Dictionary of South African English on Historical Principles
+P11648	Syoboi Calendar series ID	identifier for a group of television programs on Syoboi Calendar
+P11649	Malaysia Federal Legislation act ID	numerical identifier for Acts of the Parliament of Malaysia
+P11650	Moscow University Herbarium ID	ID for a taxon in the Moscow Digital Herbarium
+P11651	Digital Daijisen ID	identifier for an entry in Digital Daijisen on goo dictionary
+P11652	Pakistan Sign Language Dictionary ID	entry in the online Pakistan Sign Language dictionary
+P11653	IRIS UNICAMPUS author ID	identifier for an author in IRIS UNICAMPUS, the open-access repository of the Università Campus Bio-Medico
+P11654	IRIS UNIECAMPUS author ID	identifier for an author in IRIS UNIECAMPUS, the open-access repository of the Università degli Studi eCampus
+P11655	IRISanRaf author ID	identifier for an author in IRISanRaf, the open-access repository of the San Raffaele University of Rome
+P11656	Epigraphik-Datenbank Clauss / Slaby ID	unique identifier for inscriptions in Epigraphik-Datenbank Clauss / Slaby database of inscriptions
+P11657	NTV program ID	page of the program, series or film on the NTV website
+P11658	Faber Music music ID	identifier for a musical composition on the Faber Music website
+P11659	Faber Music composer ID	identifier for a composer represented by Faber Music
+P11660	Boosey & Hawkes music ID	identifier for a musical work on the Boosey & Hawkes website
+P11661	Wise Music Classical work ID	identifier for a work in the Wise Music Classical catalogue
+P11662	IATE ID	identifier for an entry on the website iate.europa.eu
+P11663	Jewish English Lexicon ID	identifier for a lexeme in the Jewish English Lexicon
+P11664	Wise Music Classical composer ID	identifier for a composer represented by Wise Music Classical
+P11665	Rate Your Music work ID	identifier for a musical work on Rate Your Music site
+P11666	Norwegian Offshore Directorate field ID	Norwegian Offshore Directorate (NPD) identifier for oil or natural gas fields
+P11667	Epson Tour player ID	page of a golfer on the Epson Tour website
+P11668	Purnnachandra Ordia Bhashakosha ID	identifier for a word in the digitized version of the Purnnachandra Ordia Bhashakosha hosted by the Digital Dictionaries of South Asia
+P11669	playmakerstats.com competition ID	identifier for a association football competition in the playmakerstats.com database
+P11670	Electrodoc person ID	identifier for a person on the Electrodoc website
+P11671	Archivarta ID	identifier of an object in the Archivarta database of cultural heritage
+P11672	CassiOpeA author ID	identifier for an author in CassiOpeA, the open-access repository of the University of Cassino
+P11673	IRIS UNIROMA2 author ID	identifier for an author in IRIS UNIROMA2, the open-access repository of the Tor Vergata University of Rome
+P11674	IRIS UNIROMA3 author ID	identifier for an author in IRIS UNIROMA3, the open-access repository of the Università degli Studi Roma Tre
+P11675	Sjøhistorie ship ID	identifier for a ship in Sjøhistorie database
+P11676	electrocd artist ID	identifier for an music artist on the electrocd website
+P11677	köztérkép work ID	identifier in the Hungarian public art database köztérkép
+P11678	ForPost person ID	ForPost identifier for a person
+P11679	Crimean virtual necropolis persons ID	Crimean virtual necropolis identifier for a person
+P11680	eTK ID	identifier for Thorndike and Kibre, catalogs of incipits of medieval scientific writings in Latin
+P11681	eVK2 ID	identifier for Scientific and medical writings in Old and Middle English
+P11682	Ivi work ID	identifier of a creative work on Ivi.ru
+P11683	Ivi person ID	ID of an actor on Ivi.ru
+P11684	Saint Petersburg Conservatory person ID	personality page at the St. Petersburg Conservatory
+P11685	Hungarian National Namespace organisation ID (new)	identifier for an organization in the Hungarian National Namespace
+P11686	University of Barcelona authority ID	register of authorities of the University of Barcelona
+P11687	Kinoglaz film ID	identifier for a film at the Kinoglaz
+P11688	MobyGames game ID	identifier of a video game in the MobyGames database
+P11689	MobyGames company ID	identifier of a company in the MobyGames database
+P11690	MobyGames group ID	identifier of a group in the MobyGames database
+P11691	Feminae record ID	numerical identifier for an entry on the Feminae website
+P11692	Alexandria UniSG person ID	identifier for a person in the Alexandria database operated by the University of St. Gallen
+P11693	OpenStreetMap node ID	ID of a node in OpenStreetMap for the item
+P11695	literatura.lv ID	identifier of a literary person, work, award or organization on the literatura.lv website
+P11696	Newguineaworld ID	identifier for a native language or language family of New Guinea on the Newguineaworld website
+P11697	Ticino Scienza IBSA Foundation ID	identifier for a person in the "Ticino Scienza" archive
+P11698	student retention rate	proportion of first-year students at the educational institution who return for their second year
+P11699	China movable cultural relic ID	unique identifier for a movable cultural relic (cultural property) of China
+P11700	JMdict sequence number	stable identifier in the Japanese Dictionary Database hosted by the Electronic Dictionary Research and Development Group (the first of the two numbers provided at the top of an entry)
+P11701	TASVideos game ID	ID for a game listed on TASVideos
+P11702	information sign	property for the image of a (historical or other) information sign or board
+P11704	INEP ID	identifier for each Brazilian educational institution
+P11705	Facebook numeric ID	numeric identifier for a Facebook page or profile
+P11706	Aligulac player ID	identifier for a StarCraft II gamer on the Aligulac website
+P11707	location URL match pattern	regex pattern of URL that individual shops/amenity within a chain can be matched against
+P11708	U.S. Epigraphy Project ID	identifier for an item in the U.S. Epigraphy Project database
+P11709	Artist Directory ID	identifier for an artist in the Artist Directory of the Museo de Arte de Puerto Rico
+P11710	LIBRA Unine ID	identifier for a person in the "LIBRA" digital library of the University of Neuchâtel
+P11711	Litres author ID	identifier for an author at Litres
+P11712	NHF club ID	identifier for a member club in Norwegian Handball Federation
+P11713	Patreon user numeric ID	numeric identifier for a user on Patreon
+P11714	Team Fortress Wiki ID	identifier for a subject in the official Team Fortress Wiki
+P11715	Federiciana ID	identifier for an entry in the Federiciana Encyclopedia on the website of the Institute of the Italian Encyclopaedia
+P11716	Russiancinema.ru person ID	page of film personalities in the Encyclopedia of National Cinema
+P11717	Aisberg author ID	identifier for an author in Aisberg, the open-access repository of the University of Bergamo
+P11718	OPENBS author ID	identifier for an author in OPENBS, the open-access repository of the University of Brescia
+P11719	Bicocca Open Archive author ID	identifier for an author in Bicocca Open Archive, the open-access repository of the University of Milan-Bicocca
+P11720	IRInSubria author ID	identifier for an author in IRInSubria, the open-access repository of the University of Insubria
+P11721	cybersport.ru player ID	identifier for a professional gamer on cybersport.ru website
+P11722	Boomplay release ID	identifier for an album or EP on Boomplay
+P11723	IRIS HUNIMED author ID	identifier for an author in IRIS HUNIMED, the open-access repository of the Humanitas University
+P11724	IRIS UNISR author ID	identifier for an author in IRIS UNISR, the open-access repository of the Vita-Salute San Raffaele University
+P11725	PubliCatt author ID	identifier for an author in PubliCatt, the open-access repository of the Università Cattolica del Sacro Cuore
+P11726	FantLab dictor ID	identifier for the dictor in FantLab
+P11728	Portráidí ID	identifier of a person in the Portráidí website
+P11729	Kulturenvanteri.com ID	numerical identifier for a monument or heritage site in the Kulturenvanteri.com database
+P11730	Warsaw Uprising insurgent ID	Powstańcze Biogramy (en. Insurgent Biographies) is a kind of online encyclopedia dedicated to the Warsaw Uprising
+P11731	Dailymotion video ID	identifier of a video on Dailymotion (for channels, use P1651)
+P11732	Databáze sérií ID	book series identifier in Databáze sérií
+P11733	Universo del corpo ID	identifier for an item in Universo del corpo on the website of the Institute of the Italian Encyclopaedia
+P11734	Enciclopedia delle scienze sociali ID	identifier for an item in the Enciclopedia delle Scienze Sociali on the website of the Institute of the Italian Encyclopaedia
+P11735	AML ID	identifier for a person on the Archives et Musée de la littérature (AML) website
+P11736	AniList character ID	identifier for a character on AniList
+P11737	Amarkosh ID	ID for an entry in the online dictionary Amarkosh
+P11738	handled, mitigated, or managed by	approach or method that can be used to address an issue or problem
+P11739	Moly.hu author ID	author identifier for Moly.hu, a Hungarian social cataloging website
+P11740	Podcast Index ID	ID for a podcast on Podcast Index, a podcast directory.
+P11741	SINTA affiliation ID	ID for an Indonesian science and technology higher education or research institution in the Science and Technology Index (SINTA)
+P11742	Hall of Light developer ID	identifier of a developer in the Hall of Light database of Amiga video games
+P11743	Hall of Light publisher ID	identifier of a publisher in the Hall of Light database of Amiga video games
+P11744	Hall of Light artist ID	identifier of an artist in the Hall of Light database of Amiga video games
+P11745	Kinoglaz person ID	identifier for a person on the Kinoglaz website
+P11746	Michaelis ID	identifier for entries in the Michaelis Portuguese dictionary
+P11747	holds diplomatic passport of	country of the diplomatic passport held by the person
+P11748	Kino1TV ID	identifier of a streaming online video on Kino1TV
+P11749	Channel One Russia Worldwide program ID	program page on the CORW website
+P11750	LSJ Wiki ID	identifier for a lexeme in lsj.gr
+P11753	Wastewater treatment plant in France ID	identifier for wastewater treatment plant in France
+P11754	Musées Grand Est artwork ID	identifier for an artwork in the Musées Grand Est online database
+P11755	INSPIRE-HEP literature ID	identifier for literature in INSPIRE-HEP, a major database for high energy physics
+P11756	Musée Fabre ID	identifier for an artwork on the Musée Fabre website
+P11757	Arabic Ontology form ID	identifier for a word form in the Birzeit University Arabic Ontology database of morphologic entities
+P11758	WPGA Tour Australasia player ID	identifier for a player at the WPGA Tour Australasia
+P11759	Technic Platform modpack ID	identifier for a Minecraft modpack on technicpack.net
+P11760	Tatoeba sentence ID	identifier for a sentence at tatoeba.org
+P11761	Quranic Arabic Corpus root id	identifier for an Arabic root in the Quranic Arabic Corpus
+P11762	Britannica Kids kids level article ID	identifier of a kids level (up to grade 5) article in Britannica Kids
+P11764	Britannica Kids students level article ID	identifier of a students level (grades 6-8) article in Britannica Kids
+P11765	Britannica Kids scholars level article ID	identifier of a scholars level (grade 9 and up) article in Britannica Kids
+P11767	TOOI identifier	identifier for a government organization in the Dutch TOOI database
+P11768	Chess Programming Wiki ID	identifier in the Chess Programming Wiki
+P11769	Bohemian Lands MP ID	ID in the database of all MPs elected to representative assemblies in the Bohemian lands 1848–1992
+P11770	Qobuz album ID	identifier for an album in the Qobuz store
+P11771	GamersGlobal game ID	identifier of a video game in the GamersGlobal database
+P11772	Atlante Geopolitico ID	identifier for an item in the Atlante Geopolitico on the website of the Institute of the Italian Encyclopaedia
+P11773	Dizionario dei prodotti DOP e IGP ID	identifier for an item in Dizionario dei prodotti DOP e IGP on the website of the Institute of the Italian Encyclopaedia
+P11774	FrameNet Lexical Unit ID	identifier of a lexical sense in FrameNet
+P11775	Météo-France weather station ID	identifier of a Météo-France weather station (national meteorological service of France)
+P11776	Wood Database ID	identifier for a type of wood in The Wood Database
+P11780	Humanities Commons member ID	identifier for a member on hcommons.org (Q28123024)
+P11781	Shipbucket ID	identifier for drawings of ships, vehicles, aircraft and equipment
+P11782	MEL residence ID	identifier for a writer residence on the website of the MEL
+P11783	JMA weather station ID	weather station ID in Japan
+P11784	Soprintendenza Speciale di Roma place ID	identifier for a place on the website of the Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma
+P11785	iconically alludes to	item that is iconically represented in the execution of this lexeme
+P11786	GamesRadar+ ID	identifier of a video game in the GamesRadar+ database
+P11787	L'Histoire par l'image ID	identifier for an entry on the L'Histoire par l'image website
+P11788	Napster release ID	identifier for an album on Napster
+P11789	Xbox Games Store ID (Xbox 360)	identifier of Xbox 360 video game in the Xbox Games Store database
+P11790	Clavis Historicorum Antiquitatis Posterioris author ID	author identifier in the Clavis Historicorum Antiquitatis Posterioris database
+P11791	Global Smash Roster fighter ID	identifier of fighter in the Global Smash Roster database
+P11792	RAWG developer ID	identifier of a video game developer in the RAWG database
+P11793	RAWG publisher ID	identifier of a video game publisher in the RAWG database
+P11794	Qualigeo ID	identifier for a food product on the online database Qualigeo (qualigeo.eu)
+P11795	Kress Collection Digital Archive ID	identifier for an artwork in museums throughout the world on the Kress Collection Digital Archive website
+P11796	time of periapsis	the time at which the orbit of an object in space, typically a planet or a satellite, goes through its periapsis
+P11797	matched by identifier from	this external ID was added because the following link was presented in both the external database and the Wikidata item
+P11798	Diritto on line ID	identifier for an item in Diritto on line on the website of the Institute of the Italian Encyclopaedia
+P11799	alternate universe counterpart	this fictional character/entity is an alternate universe counterpart of the subject
+P11800	stats.fm artist ID	identifier for a musical artist or group on stats.fm
+P11801	visited by	organisms attracted by this plant taxon and reported to visit it
+P11802	Zeno.org ID	identifier for an entry on zeno.org
+P11803	World Arachnid Catalog ID	identifier for taxon in the World Arachnid Catalog
+P11804	Springs and Fountains of Andalucía ID	identifier for sources and springs in the database of Springs and Sources of Andalusia
+P11805	TMDB collection ID	identifier for a film series at The Movie Database
+P11806	TMDB company ID	identifier for a company at The Movie Database
+P11807	WGA work ID	identifier of an artwork on the Web Gallery of Art website
+P11810	Mastodon instance URL	the Mastodon instance of/about the subject
+P11811	beforehand owned by	person or institution that owned the subject just before stated event. Meant to be used as qualifier of "significant event (P793)" for events like sales, auctions, gifts, etc
+P11812	afterward owned by	person or institution that owned the subject after stated event. Meant to be used as qualifier of "significant event (P793)" for events like sales, auctions, gifts, etc
+P11813	solubility product constant	equilibrium constant for a sparingly soluble solid chemical substance dissolved in an aqueous solution
+P11814	funded by grant	title or name of the grant funding this item
+P11815	Peacock ID	identifier for a creative work on Peacock
+P11816	theCrag ID	identifier for a climbing area or route on the “thecrag.com” website
+P11817	SEC Kerala code	code by State Election Commission (Kerala)
+P11818	Modern History Database person ID	ID of a person from Modern History Database by Institute of Modern History, Academia Sinica
+P11819	Netflix person ID	identifier for a person on Netflix
+P11820	Enciclopedia machiavelliana ID	identifier for an item in the Enciclopedia machiavelliana on the website of the Institute of the Italian Encyclopaedia
+P11821	quality is the result of process	quality that this process/activity directly correlates to and produces
+P11822	PM20 film section ID	section of 20th Century Press Archives microfilm(s) about the current item
+P11823	The Homicide Report person ID	identifier for a homicide in Los Angeles County recorded by the Los Angeles Times' The Homicide Report project
+P11824	KPU Plant Database ID	identifier for a plant taxon in the KPU Plant Database of the Kwantlen Polytechnic University School of Horticulture
+P11825	LiteraturPort autorenlexikon ID	identifier of an author in LiteraturPort
+P11826	Media Library for Dance and Theatre person ID	identifier in Mime Centrum archive
+P11827	documenta archiv ID	identifier for a person or an artist group in the documenta archiv
+P11828	Marsilio Editori author ID	identifier for an author in the database of the Italian publisher Marsilio
+P11829	Plant Finder ID (Chicago Botanic Garden)	identifier of a plant taxon in the Chicago Botanic Garden's Plant Finder database
+P11830	Israel Composers' League composer ID	identifier for a composer on the Israel Composers' League website
+P11831	Alabama Authors ID	identifier in the Alabama Authors database for authors who have some connection to the state of Alabama
+P11832	satellite view	image of the subject taken from outer space
+P11833	PremiershipRugby.com player ID (new)	identifier for a player on the PremiershipRugby.com website
+P11834	Professor at Cologne univ. ID	biographical entry in the Galerie der Professorinnen und Professoren der Universität zu Köln
+P11835	Numista ruling authority ID	unique identifier for a period, ruler, government or institution on Numista
+P11836	Suomen etymologinen sanakirja ID	identifier for an entry in the Finnish etymological dictionary published by Kotus
+P11837	Suomen murteiden sanakirja ID	identifier for an entry in the Finnish dialect dictionary published by Kotus
+P11838	Svenska Akademiens ordlista ID	identifier for a word in the wordlist published by the Swedish Academy as hosted on svenska.se
+P11840	French sports venue number	identifier for a sports venue assigned by the French ministry of sports
+P11841	Challenges billionaire ID	numerical identifier for a billionaire on the website of the French magazine Challenges
+P11842	Intangible cultural heritage ID by the Austrian UNESCO commission	this property allows the language independent access to the individual descriptions in the inventory of intangible cultural heritage as listed by the Austrian UNESCO commission
+P11843	mosff.ru player ID	identifier for a player at the mosff.ru
+P11845	Austadiums ID	identifier for a sports stadium at the Austadiums website
+P11846	Akadem organization ID (former scheme)	identifier for an organization in Akadem
+P11847	Zeneszöveg.hu international artist ID	identifier for an international artist on Zeneszöveg.hu site
+P11848	Azerbaijani National Encyclopedia ID	article identifier in the Azerbaijan National Encyclopedia
+P11849	first performance by	performer or performing group for the first performance of a work
+P11850	Encyclopedia.com ID	identifier of item within Encyclopedia.com
+P11851	record of	state or event an object is a physical representation of
+P11852	QLIT ID	identifier for an authorized term in Queerlit database
+P11853	Biographical Dictionary of Foreign Kartvelologists of Georgia ID	Identifier for a person in the Biographical Dictionary of Foreign Kartvelologists of Georgia
+P11854	Politique pappers identifier	identifier for a law on the website Politique Pappers
+P11855	altesdresden.de object ID	Identificator on altesdresden.de
+P11856	BFM.ru person ID	BFM.ru identifier for a person
+P11857	beachsoccer.com player ID	identifier for a player at the BSWW
+P11858	National Science Foundation award	identifier for grants from the United States National Science Foundation
+P11859	BIBFRAME Hub ID	identifier for a BIBFRAME Hub description from the Library of Congress Catalog, primarily generated by converting the Library's MARC Bibliographic records and MARC title authority records to BIBFRAME Hub descriptions
+P11860	elibrary.ru article ID	identifier for separate publication at the eLibrary.Ru
+P11861	Clavis Historicorum Antiquitatis Posterioris work ID	work identifier in the Clavis Historicorum Antiquitatis Posterioris database
+P11862	orchestration	an enumeration of the instruments used in a musical composition or arrangement described using any system of score notation
+P11863	Radiomuseum company ID	identifier of a company in the Radiomuseum database
+P11865	BSDB player ID	player ID on BSDB (database on football in Belgium)
+P11866	NBC Olympics athlete ID	Identifier for an athlete profile on nbcolympics.com
+P11867	Law Insider Legal Dictionary entry	identifier for an entry in Law Insider's Legal Dictionary
+P11868	type of document(s) held	used to specify the type of document(s) contained in an archival collection or documentation file
+P11869	VMI Historical Rosters Database ID	names of all enrolled students (both graduates and non-graduates) from VMI's opening in 1839 through the World War II era
+P11870	The Literary Encyclopedia person ID	identifier for an author in The Literary Encyclopedia
+P11871	ComingSoon.it TV series ID	identifier for a TV series on ComingSoon.it
+P11872	ComingSoon.it TV program ID	identifier for a TV program on ComingSoon.it
+P11873	parliament.bg MP ID	identifier for a Member of Parliament at parliament.bg
+P11874	Archivio digitale Fondo Edifici di Culto ID	ID of a record in the digital archive of the Fondo Edifici di Culto of the Italian Ministry of the Interior
+P11875	Flashpoint database ID	identifier in the Flashpoint database
+P11876	Choisirleservicepublic.gouv.fr organization ID	identifer for an organisation of the governmental plateform Choisirleservicepublic.gouv.fr
+P11877	Gameswelt ID	identifier of a video game in the Gameswelt database
+P11878	Vélo'v station ID	identifier for a Vélo'v bicycle-sharing station located in Lyon region, France
+P11879	Lithuanian protected object ID	numeric code of a natural object in the database of the State Service for Protected Areas of Lithuania
+P11880	Saugoma.lt area ID	slug of a natural territory on the site of the State Service for Protected Areas of Lithuania
+P11881	Saugoma.lt object ID	slug of a natural object on the website of the State Service for Protected Areas of Lithuania
+P11882	Alienor.org ID	numerical identifier for an artwork in the Alienor.org online database
+P11883	Musées Occitanie ID	
+P11884	Trésors de Nice ID	
+P11885	Roy Lichtenstein: A Catalogue Raisonné ID	
+P11886	CNR ExploRA author ID	identifier for an author in the open-access repository of the National Research Council (Italy)
+P11887	ECLI court code	
+P11888	Romanian river code	river codes from Apele Române
+P11889	autosuggest value	qualifier for P1963 that suggests which values should be autosuggested to the user that uses the property for items that are instances of the subject
+P11890	German University Collections person ID	identifier for persons in "University collections in Germany: Information resource on collections and museums at universities in Germany", a database of persons and literature associated with and items in German university collections
+P11891	GamersGlobal series ID	identifier for video game series on the GamersGlobal website
+P11892	Threads username	item's username on Threads
+P11893	woordenlijst.org ID	identifier of a word in the Dutch Language Union's spelling dictionary at woordenlijst.org
+P11895	BSRussia.com team ID	identifier for a sports team in the BSRussia.comdatabase
+P11896	Istituto Italiano di Tecnologia author ID	identifier for an author in Istituto Italiano di Tecnologia
+P11897	World Geographical Scheme for Recording Plant Distributions ID	identifier for an area used to record plant distributions
+P11898	Stage 32 profile ID	identifier for a personal profile on the Stage 32 website
+P11899	median household income	median of the household income (cumulated salaries etc.) of a specific place, such as city, state, country
+P11900	Livres Hebdo award ID	identifier for an award on the website of Livres Hebdo
+P11901	NCI Dictionary of Cancer Terms entry	identifier for an entry in the NCI Dictionary of Cancer Terms
+P11902	NCI Dictionary of Genetics Terms entry	identifier for an entry in the NCI Dictionary of Genetics Terms
+P11903	login URL	URL of a webpage used to log into a service
+P11904	registration page URL	URL of a webpage used to sign up for a service
+P11905	ifkdb player ID	identifier for a player of IFK Göteborg in the ifkdb database
+P11906	Livres Hebdo tag ID	identifier for a tag on the website of Livres Hebdo
+P11907	stats.fm album ID	identifier for an album or another type of musical release on stats.fm
+P11908	Ligue nationale de rugby ID	identifier for a rugby player on lnr.fr website
+P11909	Holarse article ID	identifier of an article in Holarse database
+P11910	Musée critique de la Sorbonne ID	identifier for an artwork on the Musée critique de la Sorbonne website
+P11911	Spotlight PIN ID	identifier for an actor in the Spotlight database
+P11912	myjewishitaly.it ID	identifier on myjewishitaly.it for synagogues, cemeteries, Jewish neighborhoods, etc in Italy.
+P11913	Minerba One Data Indonesia ID	identifier for a company by the Indonesian Ministry of Energy and Mineral Resources
+P11914	Wikibase World ID	identifier for the corresponding entity in the Wikibase World database
+P11915	UIA Open Yearbook organization website ID	identifier for an international non-governmental organization (INGO) or intergovernmental organizations (IGO) on the UIA Open Yearbook org id
+P11916	shortcode	string of text replaced by an emoji or other character on a platform (e.g. :heart_eyes:)
+P11917	ProQuest publication ID	an identifier for periodicals, academic journals, newspapers and other publications on ProQuest
+P11918	Friedländer ID	identifier for paintings in the Friedländer database
+P11919	FIGC player ID	player identifier in Italian Football Federation
+P11920	hitparade.ch song ID	identifier for single on hitparade.ch music site
+P11921	Theapolis theatre ID	identifier for a theatre in Theapolis.de
+P11922	verdict	decision made at the end of a trial by the judge or jury
+P11923	IbsenStage ID	identifier for events, venues, contributors, organizations and works in the IbsenStage database
+P11924	IMDb keyword	IMDb keyword related to movies and television programs
+P11925	National Union of Composers of Ukraine person ID	identifier for a composer on the National Union of Composers of Ukraine website
+P11926	Encyclopaedia Islamica ID	identifier of an article from the Encyclopaedia Islamica
+P11927	Master's degree Mon master ID	identifier for a master's degree on Mon master
+P11928	Virksomme ord ID	identifier for an item in the norwegian database for political adresses
+P11929	Swetrails route ID	identifier for routes on the hiking website Swetrails
+P11930	European Bridge League ID	identifier for a bridge player at the European Bridge League website
+P11931	CAMEO Chemicals ID	chemical in the database supplied by National Oceanic and Atmospheric Administration
+P11932	The Literary Encyclopedia work ID	identifier for a work in The Literary Encyclopedia
+P11933	IMVDb artist numeric ID	numeric identifier for a musical artist on IMVDb
+P11934	Team France athlete ID	identifier for an athlete on Team France
+P11935	Tolkien Gateway ID	identifier for an article about the universe of Tolkien in the Tolkien Gateway website
+P11936	Biblioteca centrale Cappuccini authority ID	numerical identifier for an entity in the catalogue of the Biblioteca centrale Cappuccini
+P11937	FSHF player ID	identifier for an association football player on the website of the Albanian Football Association
+P11938	Mandarin-Cantonese Comparative Study ID	identifier for a Cantonese word in A Comparative Study of Modern Chinese and Cantonese (現代標準漢語與粵語對照資料庫)
+P11939	Internet Broadway Database touring theatre ID	identifier for touring theatres in the Internet Broadway Database
+P11940	British Institute at Ankara person ID	identifier for person in the British Institute at Ankara
+P11941	British Institute at Ankara place ID	identifier for settlement in the British Institute at Ankara
+P11942	Woordenboek der Nederlandsche Taal GTB ID	identifier of an entry in the Woordenboek der Nederlandsche Taal on Geïntegreerde Taalbank
+P11943	GSAFD ID	identifier for a genre/form term in GSAFD (Guidelines on Subject Access to Individual Works of Fiction, Drama, etc.)
+P11944	USP Libraries Catalogue ID	unique identifier of a work in the University of São Paulo Libraries Catalog
+P11945	Nantes Museum of Arts artwork ID	identifier for an artwork on the Nantes Museum of Arts website
+P11946	Mythoskop ID	identifier of beings, locations, concepts and sources related to Greek mythology in the web portal Mythoskop
+P11947	Lemmy community ID	name of the Lemmy community associated to the subject
+P11948	NFSA title ID	identifier for a creative work in the National Film and Sound Archive database
+P11949	PesticideInfo chemical ID	chemical in the database supplied by Pesticide Action Network North America
+P11950	appears before phonological feature	this lexeme form appears only when another lexeme form with this phonological feature comes after it
+P11951	appears after phonological feature	this lexeme form appears only when it comes after another lexeme form with this phonological feature
+P11952	appears before lexeme form	this lexeme form appears only when this other specific lexeme form comes after it
+P11953	appears after lexeme form	this lexeme form appears only when it comes after this other specific lexeme form
+P11954	Unidades de Conservação no Brasil ID	identifier for a preserved area in the Unidades de Conservação website
+P11955	UMLS Semantic Network ID	identifier for a concept in the Semantic Network vocabulary of the Unified Medical Language System
+P11956	Experimental Factor Ontology ID	identifier for an experimental factor in the Experimental Factor Ontology
+P11957	Gottstein code	code representing a variant of the cuneiform sign according to the Gottstein system
+P11958	Moroccan geographic code (2015)	Moroccan geographic code used since 2015
+P11959	BHL item ID	identifier for an item in the Biodiversity Heritage Library (BHL)
+P11960	TVING ID	identifier for a creative work on TVING
+P11961	Google Scholar organization ID	numeric identifier for an organisation in Google Scholar
+P11962	Rumble channel	Rumble channel of a person or organisation
+P11963	GSA person ID	identifier for an athlete at Global Sports Archive
+P11964	tournament type	significance or status of a sports competition for a league, tour, association, etc.
+P11965	Roku Channel Store ID	identifier for a channel in the Roku Channel Store
+P11966	snookerscores.net tournament ID	ID about a specific snooker tournament at the snookerscores.net database
+P11967	OlimpBase FIDE ratings ID	Elo rating ID on OlimpBase
+P11968	Antenna Structure Registration Number	number issued by the Federal Communications agency to uniquely identify a broadcast antenna structure
+P11969	Korean Tour player ID	identifier for a golf player in the Korean Tour database
+P11970	Kastelenlexicon ID	identifier for a castle in the Netherlands, maintained by the NKS Kenniscentrum voor Kasteel en Buitenplaats
+P11971	NFDI4Culture ID	identifier for all NFDI4Culture resources on the NFDI4Culture Information Portal
+P11972	Pouët group ID	identifier for a demo group on Pouët
+P11973	Pouët group member ID	identifier for a demo group member on Pouët
+P11974	Pouët demo ID	identifier for a demo on Pouët
+P11975	Steam curator ID	link to a curator listing and optionally reviewing games on Steam
+P11976	Podbay ID	identifier for a podcast on Podbay
+P11977	Rostocker Matrikelportal ID	numeric identifier for students of Rostock University (1419 to present) recorded in Rostock Matrikelportal
+P11978	Panjab Digital Library ID	identifier for a work archived in the Panjab Digital Library collection
+P11979	Diamond Catalogue work ID	identifier for written literary works in the Diamond database
+P11980	Diamond Catalogue edition ID	identifier for edition of written literary works in the Diamond database
+P11981	Frankfurt University Library Digital Collection ID	identifier of a document or page in the Digital Collection of the University Library in Frankfurt am Main
+P11982	Nurnet ID	identifier of a place belonging to the Nuragic civilisation on nurnet.net
+P11983	DUMAS thesis ID	thesis submitted for defense in the DUMAS database
+P11984	Syok podcast ID	identifier for radio and podcast on Syok
+P11985	Austrian Cave Register ID	identifier of a cave in the Austrian Cave Register
+P11986	Research.com ID	identifier for a scientist on Research.com
+P11987	AFC-Ajax.info player ID	identifier for football player on site AFC-Ajax.info
+P11988	wiki.gg article ID	identifier of an article on wiki.gg (format: subdomain:Page_title or subdomain:language-code/Page_title for non-English wiki articles)
+P11989	MUDlistings ID	identifier of a MUD in the MUDlistings database
+P11990	The Mud Connector ID	identifier of a MUD in The Mud Connector database
+P11991	Visiongame.cz game ID	identifier of a video game in the Visiongame.cz database
+P11992	Visiongame.cz studio ID	identifier of a video game studio in the Visiongame database
+P11993	Databáze her developer ID	identifier of a video game developer in the Databáze her database
+P11994	wiki.gg wiki ID	identifier of a wiki on wiki.gg
+P11995	Audio+ show ID	identifier for radio and podcast on Audio+
+P11996	Cent cols ID	identifier for a pass in the Cent Cols catalog
+P11997	Lift Up profile ID	identifier for a weightlifter's Lift Up profile on Chidlovski.com
+P11998	Living Music Database composer ID	identifier for a composer in the Living Music Database
+P11999	Dictionary of Czech literature after 1945 ID	identifier on slovnikceskeliteratury.cz website
+P12000	Biographical Directory of Federal Judges numeric ID	numeric identifier for a judge in the Biographical Directory of Federal Judges
+P12001	GamerProfiles game ID	identifier for a video game on the gamerprofiles.com website
+P12002	has heir or beneficiary	people or organizations that received, or will receive, (all or part of) the subject's property or title
+P12003	ANPI person ID	identifier of a person in the National Association of Italian Partisans (ANPI) web portal
+P12004	towing capacity	the maximum sustainable force with which this vehicle can pull or push another object. Alternatively for road- or track-vehicles, the maximum weight of an object on wheels that this vehicle can reliably and safely pull given usual slopes
+P12005	Anikore anime ID	identifier for an anime on Anikore site
+P12006	learning outcome	specific knowledge, skills, and abilities that students are expected to acquire as a result of participating in a particular education program
+P12007	Substack profile ID	identifier for profiles on substack.com
+P12008	Artmajeur artist ID	identifier for an artist on the Artmajeur website
+P12009	FantLab translator ID	identifier for the translator in FantLab
+P12010	wadoku ID	identifier for a lexeme in the wadoku database
+P12011	tribe	recognised membership in a society, mainly denoted by shared cultural heritage; for ethnicity use P172
+P12012	identifier in a register in Germany	numeric identifier in a register located in Germany
+P12013	Demozoo demo ID	identifier for a demo on Demozoo
+P12014	Demozoo group member ID	identifier for a demo group member on Demozoo
+P12015	animecons.com event ID	identifier of event in the animecons.com database
+P12016	Museo Italia ID	identifier for a touristic attraction in Italy on the website museionline.info (or "Museo italia")
+P12017	Dans nos cœurs ID	
+P12018	Women's World Golf Rankings player ID	identifier in Women's World Golf Rankings
+P12019	futzal.rus player ID	identifier for a player at the futzal.rus database
+P12020	state of transmission	state in which a work is transmitted or its existence; for the state of its material witnesses, use P5816
+P12022	iNaturalist user ID	identifier for a person who contributes to the iNaturalist website
+P12023	alyga.lt player ID	identifier for a player at the alyga.lt
+P12024	UETK ID	identifier of a waterbody in the Lithuanian cadastre
+P12025	Windows Package Manager Community package ID	identifier of the package in the Windows Package Manager repository
+P12026	SEVIS school ID	identifier of an school in Student and Exchange Visitor Information System
+P12027	describes actor of	predicate sense whose actor (an agent or a cause—basically the instigator of an action) is denoted by this sense
+P12028	describes undergoer of	predicate sense whose undergoer (a patient, a theme, or a recipient—basically a non-instigator of an action) is denoted by this sense
+P12029	WikiChip article ID	identifier of page in WikiChip website
+P12030	Mageia package	identifier of the package in the Mageia database
+P12031	RBC person ID	identifier of personality page on the RBC website
+P12032	Ordbok över Finlands svenska folkmål ID	identifier for Swedish words in wordlist of Finland Swedish dialects published by Institute for the Languages of Finland
+P12033	France 3 Régions journalist ID	identifier for a journalist on the website France 3 Régions
+P12034	Médiathèque Numérique CVS ID	identifier on a creative work on the Médiathèque Numérique CVS platform
+P12035	MyShows show ID	identifier of TV show at online social database myshows.me
+P12036	NHK News topic ID	identifier for a topic on NHK News Web
+P12037	Sitios ID	identifier of a place/venue described in the accessibility database maintained by the Switzerland-based Sitios Association
+P12038	Xiaohongshu Profile	identifier for a user on Xiaohongshu
+P12039	Fansly ID	identifier for a person on the Fansly website
+P12040	J. Paul Getty Museum agent ID	identifier assigned to an agent by the J. Paul Getty Museum, replaces P2432
+P12041	type of musical notation	system of musical notation used on a given music source or composition
+P12042	Diktyon ID	numeric identifier of a Greek manuscript (Diktyon number) for linking the Pinakes database
+P12043	RAWG tag ID	identifier of a tag in the RAWG database
+P12044	chronological designation	stated scholarly journal year to which reference is made by: source cited in support of a particular statement may not be the same as the publication date or volume
+P12045	Codeberg username	identifier of a person's or organization's username on Codeberg
+P12046	ADVN ID	identifier in the authority database of ADVN
+P12047	MiMoText ID	identifier for an item in the Mining and Modeling Text knowledge graph on French novels 1751-1800
+P12048	BookBrainz series ID	identifier of the book series in the BookBrainz database
+P12049	National Register of Monumental Trees ID	identifier in the registry of monumental trees in the Netherlands
+P12050	demo of	video game or software that this trial version is based on
+P12051	National Library of Albania ID	identifier for the book in the National Library of Albania
+P12052	AARoads Wiki article ID	numeric identifier of an article on the AARoads Wiki
+P12053	BAN ID	identifier for a place on the BAN
+P12054	Metacritic game ID	identifier of a video game in the Metacritic database
+P12055	Dicionário Aberto ID	identifier for entries on Dicionário Aberto
+P12056	Online Etymology Dictionary ID	ID of a entry in Online Etymology Dictionary (with URI fragment)
+P12057	World Auchenorrhyncha Database ID	identifier for a taxon in the World Auchenorrhyncha Database (Hoppers Species File)
+P12058	Gematsu game ID	identifier of a video game in Gematsu database
+P12059	Encyclociné ID	numeric identifier for a movie on Encyclociné.com
+P12060	DBIL ID	identifier for the Latin American Left Biographic Dictionary
+P12061	Pinakes country ID	numeric identifier for a country in the Pinakes database
+P12062	Pinakes city ID	numeric identifier for a city in the Pinakes database
+P12063	Pinakes institution ID	numeric identifier for an institution in the Pinakes database
+P12064	Pinakes fonds ID	numeric identifier for an archival fonds in the Pinakes database
+P12065	Museum of Fine Arts, Bordeaux object ID	identifier for an artwork on the Museum of Fine Arts, Bordeaux website
+P12066	Aparat channel ID	ID of the Aparat channel of a person or organisation
+P12067	FaroeSoccer referee ID	identifier for an association football referee in the FaroeSoccer database
+P12068	Matilda paper ID	identifier for a paper in Matilda
+P12069	Sessionize speaker ID	identifier of the person's speaker profile on Sessionize
+P12070	Minerals.net mineral and gemstone ID	identifier for a mineral or gemstone on Minerals.net
+P12071	MUSE book ID	numeric identifier of an academic book in Project MUSE
+P12072	Game Jolt ID	identifier of a video game in the Game Jolt database
+P12073	Société de l'histoire du protestantisme français ID	identifier in the Société de l'histoire du protestantisme français database
+P12074	ProductReview ID	identifier of a product or brand on the ProductReview.com.au website
+P12075	Acclaimed Music album ID	identifier for album entries that links to the website Acclaimed Music
+P12076	Nordic Women in Film-ID	identifier in the Nordic Women in Film database
+P12077	SlackBuilds package	identifier for software package in the SlackBuilds database
+P12078	Metacritic numeric game ID	numeric identifier of a video game in the Metacritic online database; to be used as a qualifier for the main property "Metacritic game ID (P12054)"
+P12079	Metacritic publication ID	identifier of a gaming or any other media publication in the Metacritic database
+P12080	Metacritic company ID	identifier of a company in the Metacritic database
+P12081	WHO Aware Classification	antibiotic classification according to the World Health Organization
+P12082	StopGame series ID	identifier of a video game series in the StopGame database
+P12083	Steam Workshop mod ID	identifier for a mod on the Steam Workshop
+P12084	California State Park ID	identifier for a California state park from the California Department of Parks and Recreation
+P12085	Find my School ID	unique identifier of a public school in Victoria, Australia used on the Find my School website
+P12086	WikiKids ID	identifier of the article on WikiKids
+P12087	Swiss Basketball League player ID	identifier for a basketball player on the Swiss Basketball League's official website (swiss.basketball)
+P12088	Open Library publisher ID	identifier for a publisher in OpenLibrary.org
+P12089	self-identified name	name by which a group of humans refers to itself (endonym)
+P12090	non-self-identified name	name used to identify a group of humans as opposed to their self-determination
+P12091	DBpia article ID	identifier for an article in the DBpia database provided by Nurimedia
+P12092	Gematsu company ID	identifier of a company in the Gematsu database
+P12093	Valve Developer Community article ID	identifier of an article on Valve Developer Community
+P12094	DfE group UID	unique identifier of the school group used by the UK government
+P12095	fonds	part of an archival collection which an item belongs to
+P12096	Kinobox film ID	identifier for a film on the Kinobox.cz website
+P12098	Kinobox person ID	identifier for a person on the Kinobox.cz website
+P12099	parent form of an active substance	parent form of a chemical entity (e.g. a salt) used as an active substance in pharmaceutical products
+P12100	FloraVeg.EU taxon ID	identifier for a plant taxon in the FloraVeg.EU online database
+P12101	DBpia author ID	identifier for an author in the DBpia database provided by Nurimedia
+P12102	Mod DB company ID	identifier of a company in the Mod DB database
+P12103	GameBrew ID	identifier for homebrew video games, software and emulators on GameBrew
+P12104	Royal Irish Academy ID	identifier of a person on the Royal Irish Academy's official website (ria.ie)
+P12105	Red List of South African Plants conservation status	conservation status of endemic South African plants assigned by the South African National Biodiversity Institute
+P12106	RKDexcerpts ID	record for a note (on index card) in Hofstede de Groot archives held by the RKD-Netherlands Institute for Art History in the Hague
+P12107	ELSST Thesaurus ID (Version 4 - 2023)	identifier for a term in the ELSST (European Language Social Science) Thesaurus (Version 4 - 2023)
+P12108	LPGA of Japan Tour player ID	identifier for a golf player in the JLPSA database
+P12109	Catenae Catalogue ID	numeric ID of a manuscript in the Catenae Catalogue
+P12110	Parpulov group	class of similar manuscripts with Catenae as assigned by Georgi Parpulov
+P12111	IGI Global author ID	identifier for an author on the IGI Global website
+P12112	Pandit Project work ID	identifier for an Indic textual work in the Pandit Project database
+P12113	Vascular Plants of Iowa species ID	identifier for a plant species in The Vascular Plants of Iowa website
+P12114	Flora of New Jersey Project atlas ID	identifier for a plant species in the Flora of New Jersey Project atlas
+P12115	GNU Savannah project ID	identifier of a project in the GNU Savannah database
+P12116	Rahlfs number	canonical number of a Septuagint manuscript according to Alfred Rahlfs's catalogue
+P12117	Illinois State Parks ID	identifier for an Illinois state park on the State Parks & Outdoor Recreation website
+P12118	Minnesota State Forests ID	identifier for a Minnesota state forest on the Minnesota State Forests website
+P12119	Minnesota State Parks and Recreation Areas ID	identifier for a Minnesota state park on the Minnesota State Parks and Recreation Areas website
+P12120	Flickr photo ID	persistent identifier for images on Flickr
+P12121	IBP 6-letter bird species alpha code	standardized six-letter alphabetic code for bird species by the Institute for Bird Populations
+P12122	ManyVids ID	identifier for a person's store on the ManyVids website
+P12123	North Rhine-Westphalian school ID	6-digit number used by the Ministry of Innovation, Science and Research of North Rhine-Westphalia to identify schools
+P12124	Repairs ID	identifier of a former French slave owner on Repairs
+P12125	Playdate Catalog ID	identifier of a video game in the Playdate Catalog
+P12126	HBL topic ID	topic ID for the Finnish Swedish newspaper Hufvudstadsbladet
+P12127	Art Platform Japan ID	identifier for an artwork, artist, or institution on Art Platform Japan
+P12128	Archivio storico artisti lucchesi ID	identifier of an artist in the Archivio storico artisti lucchesi, published by the Fondazione Ragghianti on the website artistilucchesi.fondazioneragghianti.it
+P12129	Encyklopedia Teatru Polskiego author ID	identifier of an author in the Polish Theater Encyclopedia
+P12130	Aves de Chile ID	identifier for a bird species in the Aves de Chile database
+P12131	cagb manuscript ID	identifier for a manuscript in the cagb digital database (Commentaria in Aristotelem Graeca et Byzantina)
+P12132	stated in source according to	to be used together with P248 if the statement is taken from an aggregator rather than directly from the source
+P12133	Italian Paralympic Committee athlete ID	identifier for an athlete (sportsperson) at ComitatoParalimpico.it, the Italian Paralympic Committee (Comitato Italiano Paralimpico) website
+P12134	old-games.org ID	identifier for a computer game on the website old-games.org
+P12135	Carte d'autore online ID	identifier for a person or organization in the authority file of the web portal Carte d'autore online
+P12136	Indiana Plant Atlas ID	identifier for a plant species, subspecies, or variety in the Indiana Plant Atlas
+P12137	Linked Open Data Comune Firenze ID	identifier for an entity in the Linked Open Data platform of the municipality of Florence (Italy)
+P12138	Tennessee-Kentucky Plant Atlas ID	identifier for a plant species, subspecies, or variety in the Tennessee-Kentucky Plant Atlas
+P12139	Il Sole 24 Ore movie ID	identifier for a movie on cinema.ilsole24ore.com
+P12140	Il Sole 24 Ore person ID	identifier for a person on the "Cinema e Film" section of the website of Il Sole 24 Ore (cinema.ilsole24ore.com)
+P12141	Fondazione Fiera ID	identifier for a person or organization in the web portal archiviostorico.fondazionefiera.it
+P12142	EIDR party ID	identifier for production and distribution companies related to films
+P12143	Gaming Wiki Network article ID	identifier of an article on the GWN. Format: wiki:Page_title
+P12144	Cultural Heritage Online (Japan) heritage ID	identifier for heritage assets on Cultural Heritage Online
+P12145	Cultural Heritage Online (Japan) institution ID	identifier for museums on Cultural Heritage Online
+P12146	Playdate community wiki ID	identifier of an article on Playdate community
+P12147	Danacode (short)	short version of the Danacode book edition identifier
+P12148	Danacode (long)	long version of the Danacode book edition identifier
+P12149	archINFORM award ID	
+P12150	shukach.com ID	identifier of a place on shukach.com
+P12151	BNE periodical SID	SID identifier in the Digital Library of Spanish National Library
+P12152	Moviepilot.de person ID	identifier for a person on the online database Moviepilot.de
+P12153	FilmAffinity person ID	identifier for a person in the online database FilmAffinity
+P12154	Archiefpunt archive ID	identifier for a person or organization in the Archiefpunt database
+P12155	Archiefpunt compiler ID	identifier for a person or organization in the Archiefpunt database
+P12156	Archiefpunt curator ID	identifier for a person or organization in the Archiefpunt database
+P12157	Capitolium Art artist ID	identifier for an artist on the Capitolium Art website
+P12158	BioGRID ID	identifier for a gene or publication in the BioGRID database
+P12159	la Repubblica TV series ID	identifier for a TV series on Repubblica.it
+P12160	CECC Political Prisoner ID	identifier for a person on the CECC Political Prisoner Database website
+P12161	One Earth ecoregion ID	identifier for an ecoregion in the One Earth database
+P12162	Spectrum Computing ID	identifier in the Spectrum Computing database
+P12163	IDVT	identifier of a watercourse in the CEVT database of the Czech Republic
+P12164	BISAC Subject Heading	north american categorization identifier for book topics
+P12165	Star Citizen Tools Wiki ID	identifier of an article on Star Citizen Tools Wiki
+P12166	Gale publication ID	identifier for a publication on the Gale website
+P12167	Emerald network site ID	identifier for a protected area in Europe (excluding Natura 2000)
+P12168	Torino scale	the Torino scale level for the astronomical object
+P12169	Museo Nacional de Arte artist ID	numerical identifier for artists registered in the website of the Museo Nacional de Arte of Mexico City (munal.emuseum.com)
+P12170	GeoLOD ID	identifier for a place in Japan
+P12171	Catalogo Nazionale Dati ID	identifier for an item in a controlled vocabulary of the Italian Catalogo Nazionale Dati (schema.gov.it)
+P12172	Klingon Word Wiki ID	identifier for a lemma in the Klingon Word Wiki
+P12173	Newman Numismatics Portal ID	identifier for a person on the Newman Numismatics Portal website
+P12174	tribal council number	identifier for a First Nation tribal council in Canada from Crown-Indigenous Relations and Northern Affairs Canada
+P12175	EDItEUR Thema ID	identifier for objects in the EDItEUR Thema classification scheme
+P12176	Propylaeum-VITAE ID	identifier for a person, place, organization, or congress in the Propylaeum-VITAE database
+P12177	Rare Species Guide ID	identifier for an animal or plant species in the Minnesota Department of Natural Resources's Rare Species Guide
+P12178	Minnesota Plant List ID	identifier for a plant species or variety in the Minnesota Plant List
+P12179	Flora of the Southeastern United States ID	identifier for a plant taxon in the Flora of the Southeastern United States database
+P12180	PAEnflowered taxon URL	URL for a plant taxon found in Pennsylvania on the PAEnflowered website
+P12181	Digital Atlas of the Virginia Flora ID	identifier for a plant species, subspecies, or variety in the Digital Atlas of the Virginia Flora
+P12182	Go Botany taxon ID	identifier for a vascular plant taxon in New England on the Go Botany website
+P12183	Search System of Japanese Red Data ID	identifier for species and subspecies of the flora and fauna of Japan in the Search System of Japanese Red Data
+P12184	Art Gallery of Ontario object ID	identifier for an object in a collection of the Art Gallery of Ontario in Toronto
+P12185	Thesaurus Linguae Aegyptiae object ID	identifier for a text-bearing artefact (textual artefact) in the Thesaurus Linguae Aegyptiae
+P12186	Thesaurus Linguae Aegyptiae textual work ID	identifier for an (abstract) text (written work) in the Thesaurus Linguae Aegyptiae
+P12187	Thesaurus Linguae Aegyptiae thesaurus ID	identifier for a metadata thesaurus entry in the Thesaurus Linguae Aegyptiae
+P12188	Thesaurus Linguae Aegyptiae lemma ID	identifier for a lemma in the Thesaurus Linguae Aegyptiae
+P12189	Paradox Wikis article ID	identifier of the entity on Paradoxwikis. Format: subdomain:Page_title
+P12190	Coin Hoards of the Roman Empire ID	identifier for a coin hoard
+P12191	Alaska Women’s Hall of Fame ID	identifier for a person in the Alaska Women's Hall of Fame
+P12192	SWERIK ID	identifier in the SWERIK project about Swedish PM Corpus
+P12193	Team Wales athlete ID	identifier for an athlete on the website teamwales.cymru
+P12194	WikiIndex ID	identifier in wikiindex
+P12195	Theapolis person ID	identifier for a person in Theapolis.de
+P12196	TheTVDB movie ID	identifier for a movie at TheTVDB.com
+P12197	Shanghai Library surname ID	identifier for surnames in the Shanghai Library Name Authority Database
+P12198	Shanghai Library era ID	identifier for eras in the Shanghai Library Open Data Platform
+P12199	Shanghai Library organization ID	identifier for organizations in the Shanghai Library Open Data Platform
+P12200	Pinakes work ID	identifier for a work in the Pinakes database
+P12201	Hugging Face user or organization ID	identifier of user or organization in Hugging Face
+P12202	COR.SEM ID	identifier of the Danish Central Word registry
+P12203	official wiki URL	URL of the official wiki for the item
+P12204	ELMCIP ID	identifier of a creative work, critical writing, databases and archives, event, organization, person, platform/software, publisher, research collection, or teaching resource in the ELMCIP Knowledge Base
+P12206	RFI station ID	identifier of an Italian station on the RFI website
+P12207	BnF archives and manuscripts ID	identifier for a manuscript in the archives and manuscripts catalogue of the Bibliothèque nationale de France (BnF). Do not include the initial "cc"
+P12208	counterexample	qualifier for deprecated P279 statements; example instance or subclass of the item class for which a "subclass of" statement does not hold
+P12209	The Plant List ID (Arizona Native Plant Society)	identifier for a native plant species, subspecies, or variety in The Plant List from the Arizona Native Plant Society
+P12210	DIMA ID	identifier for a militant anarchist in the Dictionnaire international des militants anarchistes
+P12211	Atari-8-bit Forever game ID	identifier of a video game in the Atari-8-bit Forever database
+P12212	Museum of Fine Arts of Rennes object ID	identifier for an artwork on the Museum of Fine Arts of Rennes' portal
+P12213	FNAC artwork ID	numerical identifier for an artwork on the Fonds national d'art contemporain website
+P12214	Akadem person ID	identifier of a person on Akadem
+P12215	Game Classification game ID	identifier of a video game in the Game Classification database
+P12216	Game Classification machine ID	identifier of a video game platform in the Game Classification database
+P12217	Game Classification creation tool ID	identifier of a video game creation tool in the Game Classification database
+P12218	TaiCOL ID (new version)	identifier for taxa of the biota of Taiwan in the new version of the Catalogue of Life in Taiwan
+P12219	a8.fandal.cz ID	identifier of a video game in the a8.fandal.cz database
+P12220	Stadium 64 ID	identifier of a video game in the Stadium 64 database
+P12221	battery life	length of time after a full charge that a device can continue to work under normal use before it needs its battery to be recharged
+P12222	Filmweb.no film ID	identifier for a film on the Norwegian online database Filmweb
+P12223	SixtyFour Originals DataBase game ID	identifier of a video game in the SixtyFour Originals DataBase
+P12224	BUGZ ID	identifier for an article in the Bibliography of New Zealand Terrestrial Invertebrates 1775-1993
+P12225	WHDLoad database ID	identifier of a video game in the WHDLoad database
+P12226	Shanghai Library movie ID	identifier for movies in the Shanghai Library Name Authority Database
+P12227	PCSX2 Wiki ID	identifier of an article on PCSX2 Wiki
+P12228	KRS number	identifier of a Polish organization of the National Court Register
+P12229	Twitch numeric channel ID	numeric identifier of a Twitch channel; use as a qualifier for P5797 "Twitch channel ID"
+P12230	RPCS3 Wiki ID	identifier of an article on RPCS3 Wiki
+P12231	Black Games Archive ID	identifier of a video game in the Black Games Archive
+P12232	Citra compatibility database ID	identifier of a video game in the Citra compatibility database
+P12233	DraCor ID	identifier in the DraCor database
+P12234	ORBi article ID	unique identifier for a scientific article referenced on the University of Liège's institutional repository
+P12235	IGN wiki article ID	identifier of a wiki article on the IGN website
+P12236	AreWeAntiCheatYet ID	identifier of a video game in the AreWeAntiCheatYet database
+P12237	RPGFan game ID	identifier of a video game in the RPGFan database
+P12238	Arcade Hub ID	identifier of a video game in the Arcade Hub database
+P12239	Shamela book edition ID	an ID for an edition literally work in Shamela digital library
+P12240	HistoriaGames series ID	identifier of a video game series in the HistoriaGames database
+P12241	Schnittberichte.com title ID	identifier in the Schnittberichte.com database
+P12242	Kemono Games game ID	identifier for a video game in the Kemono Games database
+P12243	Internet Game Database event ID	identifier for an event on the Internet Game Database
+P12244	Xemu compatibility database ID	identifier of a video game in the xemu compatibility database
+P12245	GamesMeter game ID	identifier of a video game in the GamesMeter database
+P12246	GameGear.jp ID	identifier of a video game in the GameGear.jp database
+P12247	Walmart product ID	identifier of a product on Walmart.com
+P12248	Swissubase person ID	identifier for a person in the Swissubase catalog
+P12249	RPGWatch game ID	identifier of a video game in the RPGWatch database
+P12250	RPGWatch company ID	identifier of a company in the RPGWatch database
+P12251	RPGWatch press ID	identifier of a media outlet in the RPGWatch database
+P12252	Indie DB company ID	identifier of a company in the Indie DB database
+P12253	NIWA article ID	identifier of an article on the Nintendo Independent Wiki Alliance. Format: wiki:Page_title
+P12254	turismoroma.it place ID	identifier for a place on the touristic website of Rome (turismoroma.it)
+P12255	ScummVM ID	identifier of a video game in the ScummVM compatibility database
+P12256	ORBi author ID	unique identifier for a scientific author referenced on the University of Liège's institutional repository
+P12257	Abandonware-France game series ID	identifier of a video game series in the Abandonware France database
+P12258	Abandonware-France game compilation ID	identifier of a video game compilation in the Abandonware France database
+P12259	Abandonware-France person ID	identifier of a person in the Abandonware France database
+P12260	Abandonware-France company ID	identifier of a video game company in the Abandonware France database
+P12261	Abandonware-France magazine ID	identifier of a video game magazine in the Abandonware France database
+P12262	Abandonware-France award ID	identifier of a video game award in the Abandonware France database
+P12263	Kanjipedia word ID	identifier of a word on Kanjipedia
+P12264	Moviefone movie ID	identifier of a movie in Moviefone
+P12265	South African NPO number	registration number for South African nonprofits
+P12266	Nigerian registered company ID	registered company number (Registration Number) assigned to a business by the Corporate Affairs Commission (CAC) in Nigeria
+P12267	Abandonware-France game ID	identifier of a video game in the Abandonware France database
+P12268	AFJV directory ID	identifier of an organization in the AFJV directory
+P12269	Abandonware-France book ID	identifier of a book in the Abandonware France database
+P12270	Flora of the Hawaiian Islands URL	URL of the entry for a plant genus, species, subspecies, or variety in the Flora of the Hawaiian Islands website
+P12271	MilliBase taxon ID	identifier for a Diplopoda (millipede) or parent taxon in the MilliBase database
+P12272	Monasticon Hibernicum database ID	identifier for early Christian sites in Ireland in the Monasticon Hibernicum database
+P12273	Montana Plant Life URL	URL for a plant family, genus, or species on the Montana Plant Life website
+P12274	Rhineland-Palatinate school ID	5-digit number used by the Ministry of Education of Rhineland-Palatinate to identify schools
+P12275	plate(s)	plate number(s) in the reference source being cited to support the statement being made
+P12276	Enciclopedia di Roma monument ID	identifier for a monument in the website Enciclopedia di Roma (info.roma.it)
+P12277	Enciclopedia di Roma street ID	identifier for a street in the website Enciclopedia di Roma (info.roma.it)
+P12278	Mid-Atlantic Herbaria Consortium taxon ID	identifier for a plant taxon in the Mid-Atlantic Herbaria Consortium database
+P12279	The Criterion Collection spine number	DVD/Blu-ray spine number of a film or film series in The Criterion Collection
+P12280	Walk Score ID	identifier of a walkability index of neighborhoods and municipalities in the United States, the United Kingdom, Canada and Australia
+P12281	HistoriaGames game ID	identifier of a video game in the HistoriaGames database
+P12282	Deutsche Bahn station number	numeric identifier for train stations operated by Deutsche Bahn
+P12283	Legends Tour player ID	identifier for a golf player on the Legends Tour
+P12284	Moscow Cultural Heritage ID	identifier of the cultural heritage in the Moskomnaslediya database
+P12285	USOPC Hall of Fame ID	identifier for an athlete in the U.S. Olympic & Paralympic Hall of Fame
+P12288	Cathopedia article ID	identifier for an article on the online encyclopedia Cathopedia (it.cathopedia.org)
+P12289	TouchArcade game ID	identifier of a game on TouchArcade
+P12290	DoblajeVideojuegos game ID	identifier for a video game in the DoblajeVideojuegos database
+P12291	Adventure-Treff game ID	identifier of a video game in the Adventure-Treff database
+P12292	Biota of New Zealand ID	identifier for a taxon in the Biota of New Zealand database
+P12293	Consortium of Bryophyte Herbaria taxon ID	identifier for a bryophyte taxon in the Consortium of Bryophyte Herbaria gateway
+P12294	Consortium of Lichen Herbaria taxon ID	identifier for a lichen taxon in the Consortium of Lichen Herbaria database
+P12295	Native Plants Hawaii ID	identifier for a taxon on the Native Plants Hawaii website
+P12296	SERNEC taxon ID	identifier for a plant taxon in the SERNEC data portal
+P12297	TORCH taxon ID	identifier for a plant taxon in the TORCH Data Portal
+P12298	Penstemon Database ID	identifier for a penstemon species or variety in the Penstemon Database
+P12299	Digicarmel ID	identifier for an entity in the database Digicarmel by the order of Discalced Carmelites
+P12300	Retskrivningsordbogen ID	identifier for the Danish dictionary Retskrivningsordbogen
+P12301	MAMCS artwork ID	identifier for an artwork of the Strasbourg Museum of Modern and Contemporary Art
+P12302	Sofascore player ID	identifier for a sportsperson on Sofascore
+P12303	Mod.io game ID	identifier for a video game on Mod.io
+P12304	Sina CBA player ID	identifier for a basketball player of the Chinese Basketball Association on the website cba.sports.sina.com.cn
+P12305	turismo.marche.it place ID	identifier for a place on the touristic website of Marche region (turismo.marche.it)
+P12306	ISzDb series ID	identifier of a series in the ISzDb (a Hungarian dub database)
+P12307	IFTTT service ID	identifier for a service on IFTTT
+P12308	National-Football-Teams.com team ID	identifier for a association football (soccer) national team in the National-Football-Teams.com database
+P12309	Moviefone person ID	identifier of a person on the website Moviefone
+P12310	Commonwealth Games Australia athlete ID	identifier for an athlete at commonwealthgames.com.au
+P12311	Team Scotland athlete ID	identifier for an athlete at teamscotland.scot
+P12312	Kicker team ID	identifier for a sports team in the Kicker database
+P12313	goalzz.com team ID	identifier for a sports team in the goalzz.com database
+P12314	vesti.kz team ID	identifier for a sports team in the vesti.kz database
+P12315	Am Faclair Beag ID	identifier for an entry in Am Faclair Beag
+P12316	tourist information point number	identifier for a tourist information point (guidepost) in the Czech Republic
+P12317	Alexandria.dk person ID	identifier for person in the role-playing library Alexandria
+P12319	Babelio series ID	identifier for a series on the French literature site Babelio
+P12320	Moviebuff ID	identifier for films and film persons from the Moviebuff website
+P12321	RCS number	identifier in the trade register of Luxembourg
+P12322	underlying structure(s)	mathematical structure(s) obtained by deleting some data of the subject
+P12323	working memory type	specifies the type of working memory of this data object
+P12324	production manager	manager that is responsible for the administration of a feature film or television production
+P12325	Sayed Ganj Balochi Glossary ID	entry in the Qamosona online reproduction of Sayad Zahoor Shah Hashmi’s Balochi dictionary
+P12326	Vazhaju word ID	identifier for an entry in the Vazhaju Tajik dictionary
+P12327	Stage username	account from a German authority on the German social media platform Stage
+P12328	simulates	item simulated, imitated, or made to appear real by this item
+P12329	Qué series ver series ID	Qué series ver identification number of a creative work
+P12330	Philippine middle name	maternal surname generally placed in the middle of this person's name
+P12331	Baseball-Reference.com manager ID	identifier for an manager in the Baseball-Reference.com database
+P12332	Playstation Store concept ID	identifier for a game available on the PlayStation Store
+P12333	Pallaalcentro player ID	identifier for a player at the Pallaalcentro
+P12334	Rowing Canada ID	athlete page on Rowing Canada
+P12335	Rugby Database ID	identifier for a rugby union player on Rugby Database website
+P12336	Encyclopedia of Cacti species ID	identifier for a species, subspecies, variety, form, or cultivar of cactus in the Encyclopedia of Cacti
+P12337	Nebula channel ID	id of the channel on nebula.tv
+P12338	fiba.basketball player ID	identifier for a basketball player at fiba.basketball
+P12339	Académie de Stanislas member ID	
+P12340	National Natural Parks System ID	identifier for a protected area on the National Natural Parks System's website (Colombia)
+P12341	Bandcamp track ID	identifier for an audio track on Bandcamp
+P12346	combines media	media files that composes this media file
+P12347	NientePopCorn movie ID	identifier for a movie at NientePopCorn.it
+P12348	NientePopCorn series ID	identifier for a series at NientePopCorn.it
+P12349	NientePopCorn person ID	identifier for a person at NientePopCorn.it
+P12350	Bavarian school ID	A 4-digit number used by the Ministry of Education of Bavaria to identify schools
+P12351	BookBrainz edition ID	identifier for a specific edition of a work in BookBrainz
+P12352	British Pathé asset ID	identifier for a film in the archive of British Pathé
+P12353	CRIS Unique Site Number	identifier in the New York State Cultural Resource Information System
+P12354	Great American Business Leaders of the 20th Century ID	ID of a person in Great American Business Leaders of the 20th Century
+P12355	Merkur author page	Identifier for an author of the German intellectual magazine “Merkur”
+P12356	Globoplay ID	identifier for a creative work on Globoplay
+P12357	BindingDB ID	ID of a chemical compound in BindingDB
+P12358	FFTT player ID	FFTT player licence identifier
+P12359	Czech geological location ID	identifier for natural monuments and geological sites in Czechia
+P12360	etymologiebank.nl ID	identifier for an entry in the online Dutch etymology dictionary hosted by Instituut voor de Nederlandse Taal
+P12361	Bluesky handle	account handle on Bluesky
+P12362	Parliament of Victoria ID	identifier of a person in the biographical register for the Parliament of Victoria website
+P12363	clerked for	this person has held a clerkship with the judge
+P12364	ArchDaily architecture office ID	identifier for an architectural company on ArchDaily
+P12365	HistoryMakers Maker Directory ID	identifier for a person ("maker") in the HistoryMakers Maker Directory
+P12366	OKRB 011-2022 code	identifier of specialty and qualification according to OKRB 011-2022
+P12367	Plant Illustrations taxon ID	identifier for a taxon other than species on the Plant Illustrations website
+P12368	Plant Illustrations species ID	identifier for a species on the Plant Illustrations website
+P12369	Bantumen Powerlist 100	identifier for Bantumen's Powerlist, set of lists recognizing black people from Portuguese-speaking countries
+P12370	International Hockey Federation competition ID	identifier for a field hockey competition on the International Hockey Federation website
+P12371	IndExs Exsiccata editor ID	identifier in the IndExs online database for an editor of exsiccatae or exsiccata-like series
+P12372	Luxembourg Olympic and Sports Committee profile ID	identifier for an athlete's profile at the official website of the Luxembourg Olympic and Sporting Committee, known in French as Comité Olympique et Sportif Luxembourgeois (COSL)
+P12373	The Models Resource entity ID	identifier for a fictional character, item, location or other entity on The Models Resource
+P12374	HbVar ID	identifier of a hemoglobin variant or thalassemia-causing mutation on the HbVar database website
+P12375	TracesOfWar award ID	identifier for awards associated with post-18th-century wars in the TracesOfWar database
+P12376	Latindex 2022 ID	identifier of a journal in the Latindex database (2022 version)
+P12377	Flashback lexicon ID	identifier for the lexicon at flashback.se
+P12378	VMH ID	ID for a topic in Virtual Metabolic Human database
+P12379	protected heritage site in Brussels (web version) ID	identifier of a protected heritage site in Brussels, Belgium (web version)
+P12380	Euro+Med PlantBase taxon ID	identifier for a plant taxon in the Euro+Med PlantBase
+P12381	LoverFans ID	identifier for a person on the LoverFanswebsite
+P12382	DigiListan artist ID	identifier for an international artist on DigiListan site
+P12383	Letterboxd director ID	identifier for a film director on the online database Letterboxd
+P12384	Letterboxd user ID	identifier for a user on Letterboxd
+P12385	Gran Enciclopèdia Catalana ID	identifier for an item in the Gran Enciclopèdia Catalana
+P12386	Dansk Forfatterleksikon ID	identifier for person in Dansk Forfatterleksikon
+P12387	Qantas hotel ID	identifier of a hotel in the Qantas database
+P12388	official list URL	URL of a website listing instances of the subject, maintained by the authority on the subject
+P12389	Veterans Legacy Memorial ID	veterans by gravesites
+P12390	China Animal Scientific Database dbb ID	identifier for an animal taxon of China in the China Animal Scientific Database (.../dbb/...)
+P12391	National Library of Malaysia OPAC ID	identifier for an item in online public access catalogue of the National Library of Malaysia
+P12392	Taiwan Biographical Database ID	ID for a person in The Taiwan Biographical Database by National Taiwan Normal University
+P12393	IFOPT stop ID	
+P12394	Jinji Koshinroku ID (1st edition)	ID of a person in 1st edition of Jinji Koshinroku
+P12395	Jinji Koshinroku ID (4th edition)	ID of a person in 4th edition of Jinji Koshinroku
+P12396	Jinji Koshinroku ID (8th edition)	ID of a person in 8th edition of Jinji Koshinroku
+P12397	TheTVDB season ID	identifier for a TV season on the website TheTVDB.com
+P12398	TheTVDB company ID	identifier for a company on the website TheTVDB.com
+P12399	TheTVDB award ID	identifier for an award on the website TheTVDB.com
+P12400	Kialo ID	Link to the structured Kialo debate tree about or most relevant to the subject.
+P12401	Internet Dictionary of Polish Surnames ID	identifier in the nazwiska.ijp.pan.pl dictionary of surnames used in Poland
+P12402	Myths on Maps ID	identifier for an entity (person, place, group) related to Greek mythology in the database Myths on Maps
+P12403	Plants of Hawaiʻi ID	identifier for a taxon on the Plants of Hawaiʻi website
+P12404	Kalliope.org author ID	identifier for person in the kalliope.org website
+P12405	PteridoPortal taxon ID	identifier for a taxon on the PteridoPortal
+P12406	Wörterbuch zur Verbvalenz sense ID	identifier for a sense in the verb valency dictionary at grammis.ids-mannheim.de
+P12407	Laws of Malaysia URL	Uniform Resource Locator for laws of Malaysia
+P12408	XWord Info author ID	identifier for a New York Times crossword (also variety or acrostic) puzzle constructor on XWord Info
+P12409	Bluesky DID	the Bluesky decentralised identifier (DID) of the account
+P12410	semantic derivation of	links a lexeme sense to a particular sense it is derived from
+P12411	Unified Saudi Occupational Classification	identifier for job in Unified Saudi Occupational Classification
+P12412	Lobbypedia ID	identifier on Lobbypedia.de
+P12413	date of application	date of a application/request that led to a membership in an organisation, an employment or issuance of an identifier
+P12414	ru.hayazg.info ID	identifier for a person in the Russian edition of the Armenian website hayazg.info
+P12415	VD 17 ID	ID in the retrospective Union Catalogue of Books Printed in German Speaking Countries in the 17th Century (VD 17)
+P12416	Dongqiudi.com team ID	association football team ID on the Dongqiudi.com
+P12417	Environmental Performance Index	value of the EPI index for this country
+P12418	Nintendo eShop (Europe) ID	identifier of a video game in Nintendo eShop (Europe)
+P12419	Joseph Smith Papers person ID	ID of a person in Joseph Smith Papers Project
+P12420	Il Nuovo De Mauro ID	identifier for an Italian lexeme in the Il Nuovo De Mauro online vocabulary
+P12423	Sundance Institute Archive film ID	identifier for a film in the Sundance Institute Digital Archive
+P12425	Sundance Institute Archive event ID	identifier for an event in the Sundance Institute Digital Archive
+P12426	Sundance Institute Archive person ID	identifier for a person in the Sundance Institute Digital Archive
+P12427	notify.moe anime ID	identifier for an anime television series on notify.moe
+P12428	Swetrails POI-ID	identifier for POIs on the hiking website Swetrails
+P12429	UT.no ID	identifier for a hiking destination for the Norwegian Trekking Association
+P12430	The StoryGraph author ID	identifier for authors on book catalog site The StoryGraph
+P12431	X place ID	identifier for a geographic location on X (formerly Twitter)
+P12432	age of onset of sexual maturity	point in time after which an individual attains the ability to reproduce sexually
+P12433	nixpkgs ID	nix attribute path in the nixpkgs unstable repo
+P12434	Beta Code	representation of Ancient Greek as ASCII characters
+P12435	Shamela author ID	author identifier in Shamela online book library
+P12436	phonetic value	phonetic value of signs/characters
+P12437	PROSPEROPatches game ID	identifier of a video game or application in the PROSPEROPatches database
+P12438	ORBISPatches game ID	identifier of a video game or application in the ORBISPatches database
+P12439	civil rank	non-military rank of a civil office holder in Russian Empire
+P12440	Quake Wiki ID	identifier of an article on the Quake Wiki
+P12441	Anglo-Norman Dictionary entry	entry for a lexeme in the online Anglo-Norman Dictionary
+P12442	TopKar ID	identifier for a toponym in the database TopKar (Toponymy of Karelia)
+P12443	has cabinet	value is the advisory committee to the item's head of state
+P12444	Mindat taxon ID	ID of fossil taxa in Mindat.org database
+P12445	China Animal Scientific Database taxon ID	identifier for an animal taxon of China in the China Animal Scientific Database (.../taxon/...)
+P12446	ISCED field	mapping of a particular course or curriculum to the International Standard Classification of Education (ISCED)
+P12447	Daryab Pashto Glossary ID	entry for a lexeme in the Qamosona online edition of the Daryab Pashto Glossary
+P12448	Dictionary of American Regional English ID	identifier of an entry in the named record of American English as spoken in the United States
+P12449	Dictionary of Old English ID	identifier of an entry in the University of Toronto Centre for Medieval Studies' Old English dictionary
+P12450	Encyclopedia Mythica ID	ID of a topic in Encyclopedia Mythica
+P12451	Arabic Ontology lexical concept ID	identifier for a lexical concept in the Birzeit University Arabic Ontology database of morphologic entities
+P12452	appeals to	court or other body that hears appeals from subject's decisions
+P12453	Great Plains Herbaria taxon ID	identifier for a plant taxon on the Great Plains Regional Herbarium Network website
+P12454	location information URL	URL of a web page providing information on the locations of stores or other physical locations of a brand or operator
+P12455	FrameNet frame ID	identifier of a concept in FrameNet
+P12456	phonographic copyright	person or organization that holds the phonographic copyright
+P12457	is invariant under	subject is unchanged by this process / function / group of transformation
+P12458	Parsifal cluster ID	identifier for a cluster related to a person or an organization in Parsifal, the collective catalogue of the Unione romana biblioteche ecclesiastiche (Union of Roman ecclesiastical libraries)
+P12459	Archives départementales de Vaucluse fonds ID	identifier of a fond at Archives départementales du Vaucluse
+P12460	Dictionnaire du Moyen Français (1330-1500) ID (2020 version)	identifier for an entry in the Middle French dictionary (2020 version) hosted by Analyse et Traitement Informatique de la Langue Française
+P12461	National Buildings Repository identifier	identifier of a building in the National Buildings Repository (France)
+P12462	Location Memory building ID	identifier of a building on Location Memory
+P12463	formatter URL for IIIF manifest	URL to generate IIIF manifest from specific ID
+P12464	JSTOR Global Plants type specimen ID	identifier for the type specimen of a plant taxon, in JSTOR Global Plants
+P12465	EDIT16 catalogue title ID	identifier of the EDIT16 catalogue about titles of 16th-century books
+P12466	EDIT16 catalogue place ID	identifier of the EDIT16 catalogue about places of publication of 16th-century books
+P12467	Trismegistos god ID	identifier for an ancient god in the database Trismegistos
+P12468	PyPI trove classifier	standardized classification system for software, used and maintained by the Python Package Index
+P12469	graduation rate	proportion of students who graduate from the institution in the given timeframe
+P12470	normal graduation time	expected or typical duration of an educational program from matriculation to graduation
+P12471	multiplier of normal graduation time	duration of study compared to the usual time required to graduate, used as the basis for an institution's reported graduation rate; qualifier for "graduation rate (P12469)"
+P12472	Universal Spectrum Identifier	The Universal Spectrum Identifier (USI) is a compound identifier that provides an abstract path to refer to a single spectrum generated by a mass spectrometer, and potentially the ion that is thought to have produced it.
+P12473	Weird Gloop article ID	identifier of an article on wiki hosted by Weird Gloop. Format: subdomain:Page_title
+P12474	Kremlin.ru glossary ID	identifier on the website of the President of Russia
+P12475	top scorer	best scorer of a single season of a team sport's competition or the best ever scorer of the history of a competition
+P12476	filial church	church which acts as the less important temple of a parish
+P12477	AniSearch anime ID	ID for an anime at AniSearch
+P12478	Brazzers ID	identifier for a pornographic actor on Brazzers
+P12479	Tekściory artist ID	identifier for an artist on Tekściory site
+P12480	Hong Kong Cinema ID	identifier for film persons from the Hong Kong Cinema website
+P12481	PlaymakerStats.com sports executive ID	identifier for a sports executive in the PlaymakerStats.com database
+P12482	Műemlékem.hu identifier	identifier of a monument in Hungary in the Műemlékem.hu database
+P12483	PMB – Personen der Moderne Basis person ID	numeric identifier for a person in the PMB – Personen der Moderne Basis web service with entities from Vienna around 1900
+P12484	television judge	person who participates in a television show as a competition judge or mentor
+P12485	British Listed Buildings ID	identifier for the British Listed Buildings website
+P12486	GNM ID	identifier for an item on the Germanisches Nationalmuseum (Nuremberg) website
+P12487	2GIS place-ID	identifier 2GIS of a place
+P12488	2GIS route-ID	identifier 2GIS of a route
+P12489	livechart.me anime ID	ID for an anime at livechart.me
+P12490	Papers with Code URL	URL for subject in Papers with Code system
+P12491	SMIRKS	line notation that represents generic chemical reactions
+P12492	Trakt.tv film ID	identifier for a film in the Trakt.tv database
+P12494	NACSIS-CAT library ID	identifier for a library (or other organization) participating in the NACSIS-CAT union catalog
+P12495	Epigraphic Database Roma ID	identifier for an inscription in the Epigraphic Database Roma
+P12496	WhatPub pub ID	identifier for a pub on WhatPub
+P12498	JAHIS Law Database ID	identifier for law/regulation entry in full-text database of acts (1886-2017) and imperial ordinances (1886-1947) in Japan
+P12499	literatura.kg person ID	identifier for a person at the literatura.kg
+P12500	nagrada.srs.kg person ID	identifier for a person at the nagrada.srs.kg
+P12501	who.ca-news.org person ID	identifier for a person at the who.ca-news.org
+P12502	UCA authority ID	identifier for an authority in the catalog of the Library of the University of Cádiz (UCA)
+P12503	thesaurus's main topic	primary topic of the subject Wikimedia thesaurus
+P12504	thesaurus combines topics	this theasurus combines (intersects) these two or more topics
+P12505	topic's main thesaurus	main Wikimedia thesaurus for this topic
+P12506	latest end date	latest date beyond which the statement could no longer be true
+P12507	European Union trademark number	identifier of the European Union trademark number issued by European Union Intellectual Property Office (EUIPO)
+P12508	ONIX codelist ID	identifier used in the ONIX standard by the publishing industry
+P12509	GCatholic episcopal conference ID	identifier for an episcopal conference in the GCatholic database
+P12510	Oxford English Dictionary object ID (post-July 2023)	identifier for an entry (or sub-entry) in the Oxford English Dictionary, as the suffix to a DOI issued by the OED
+P12511	2nd German Basketball Bundesliga ID	unique identifier of a player in der second German basketball league
+P12512	Tashrihi Qamos Pashto Glossary ID	identifier for a lexeme in the Tashrihi Qamos Pashto Glossary by the Academy of Sciences Kabul
+P12513	nimi.li ID	identifier for a lexeme in the nimi.li database
+P12514	Nye ord i dansk ID	identifier for the database for new words curated by Dansk Sprognævn
+P12515	OHDSI ID	identifier for a medical-related concept in the Athena vocabulary, run by OHDSI
+P12516	rug style	classification of an individual textile floor covering based on geographic or cultural origin, structure, or pattern
+P12517	Consortium of Midwest Herbaria taxon ID	identifier for a plant taxon on the Consortium of Midwest Herbaria website
+P12518	Encyclopedia Astronautica ID	ID of a topic in Encyclopedia Astronautica
+P12519	Spesalay Pashto (Dari/Persian Dictionary) ID	entry in the Qamosona online reproduction of the Spesalay Dari–Pashto dictionary
+P12520	Italian Senate (1848-1943) ID	identifier of a member of the Senate of the Kingdom of Sardinia or of the Senate of the Kingdom of Italy on the Italian Senate website
+P12521	ICANNWiki page ID	identifier of an article page in the ICANNWiki wiki
+P12522	Dictionary of Gandhari ID	identifier for a lexeme in A Dictionary of Gāndhārī
+P12523	FSA Food Hygiene Rating System ID	
+P12524	Finnish Service Catalogue organization ID	
+P12525	Köztérkép creator ID	identifier for an author of the Köztérkép (Hungarian sculptors, visual artists, contributors)
+P12526	performing organization	organization that received funding to create this entity
+P12527	form decomposition	decomposition of a word
+P12528	TNHR&CE temple ID	identifier for temples, mutts, charitable endowments and specific endowments supervising by TNHR&CE
+P12529	Diccionario de la lengua española entry ID	identifier for an entry in the Spanish Language Dictionary of the Spanish Royal Academy
+P12530	Malaysia company new number	identifier for companies in Malaysia
+P12531	GARAE ID	identifier for a French ethnographer in the GARAE database
+P12532	Oyez Project ID	identifier for a court case, justice, or advocate in the Oyez Project website
+P12533	Gematsu event ID	identifier of an event in the Gematsu database
+P12534	Singapore Infopedia ID	identifier of Singapore Infopedia articles
+P12535	OSL ID	identifier of a cuneiform sign in the Oracc Sign List
+P12536	Combine OverWiki ID	identifier of an article on Combine OverWiki
+P12537	EJAtlas ID	identifier for an environmental issue, conflict, disaster, etc. in the Environmental Justice Atlas
+P12538	Galician Authors in the BUSC ID	identifier of an galician author in the Library of the University of Santiago de Compostela (BUSC)
+P12539	Premier League player ID	identifier for a player's profile on the English Premier League official website
+P12541	Ludzie Nauki ID (new)	identifier in the Ludzie Nauki, the new official database of Polish scientists
+P12542	WhatsApp channel ID	identifier of the channel on WhatsApp
+P12543	Portal Wiki ID	identifier of an article on Portal Wiki
+P12544	RatingGraph TV show ID	identifier for a TV show on the RatingGraph site
+P12545	nanopublication identifier	RDF-based publication, with references and history
+P12546	Instagram account numeric ID	unique numeric identifier for Instagram accounts
+P12547	Doom Wiki ID	identifier of an article on Doom Wiki
+P12548	media modality	which media modalities are present in a creative work, particularly in digital, multimodal works such as electronic literature
+P12549	height of letters	height of the letters of an inscription
+P12550	DWDS sense ID	url slug of a sense in DWDS
+P12551	11v11 player ID	identifier for a player's profile on the 11v11.com website
+P12552	Hyatt hotel ID	5-letter identifier for hotels under the Hyatt brand
+P12553	ECF rating code	identifier for a chess player issued by the English Chess Federation
+P12554	CalPhotos taxon ID	identifier for a plant, animal, or fossil species or subspecies on the CalPhotos website
+P12558	TMDB season ID	identifier for a television series season at The Movie Database
+P12559	TMDB episode ID	identifier for a television series episode at The Movie Database
+P12560	ASM Mammal Diversity Database ID	identifier for a mammal species in the American Society of Mammalogists Mammal Diversity Database
+P12561	SteamGridDB ID	identifier for a video game, emulator, software, program, operative system, video game console or website in the SteamGridDB
+P12562	Amazon Luna game ID	identifier of a video game in the Amazon Luna database
+P12563	Imagehash difference hash	hash which tells whether two images look nearly identical
+P12564	Triton Poker player ID	identifier of a poker player in Triton Poker
+P12565	image of construction	image showing the building/object/work under construction
+P12566	Traineras rower ID	identifier in Traineras website which lists competetive rowers and their results
+P12567	StatMuse Premier League player ID	identifier for a Premier League player's profile on the StatMuse website
+P12568	AllSkaters person ID	identifier for a person on AllSkaters
+P12569	DoblajeVideojuegos dub actor ID	identifier for a dubbing actor in the DoblajeVideojuegos database
+P12570	IsThereAnyDeal ID	identifier for a video game, downloadable content or video game bundle on IsThereAnyDeal
+P12571	derived from base unit	the base unit(s) that this derived unit is derived from
+P12572	Algerian National Library ID	identifier for the subject issued by the ANL (Algerian national library), alias: ANL ID ; BNA ID; NLA ID
+P12573	Lisaan Masry Egyptian Arabic Dictionary ID	entry for a lexeme in the online Lisaan Masry Egyptian Arabic Dictionary
+P12574	International Classification of Nonprofit Organizations	industry classification for nonprofit organization created by the Johns Hopkins University and adapted by the United Nations
+P12575	Encyclopaedia of the Qur'ān ID	identifier of an article from the Encyclopaedia of the Qur'ān
+P12576	Brazilian Football Confederation player ID	identifier for football player on site Brazilian Football Confederation
+P12577	BeSoccer player ID	identifier for a player's profile on the BeSoccer website
+P12578	A New Nation Votes ID	ID of a person in A New Nation Votes: American Electoral Returns, 1788-1825
+P12579	istina.msu.ru person ID	identifier for a person at the istina.msu.ru
+P12580	KupiGolos game ID	identifier of a video game in the KupiGolos database
+P12581	Oskar Schindler Archive agent ID	
+P12582	Oxford Reference overview ID	identifier for an overview page for a topic in the Oxford Reference
+P12583	RTE substation ID	identifier of electrical substations operated by RTE in France
+P12584	Theatrical Index company ID	identifier for a theatrical production company or other business listed in Theatrical Index
+P12585	Touhou Wiki ID	identifier for an subject in the Touhou Wiki. Format: Page_title or language code:Page_title for non-English wiki articles
+P12586	Traineras club ID	Identifier in Traineras website which lists competetive clubs and their results
+P12587	Traineras competition ID	identifier in Traineras website which lists competitions and their results
+P12588	Slovenian organization number	official ID for organizations and companies in Slovenia
+P12589	Featherbase ID	identifier for an entry in the Featherbase database about bird feathers
+P12590	TUESPWiki ID	identifier for an subject in the The Unofficial Elder Scrolls Pages
+P12591	Theatrical Index theatre ID	identifier for a theatre listed in Theatrical Index
+P12592	Supreme Court of Canada case number	identifier for a case in the Supreme Court of Canada
+P12593	SNS Info Saúde	identifier for a health condition in the SNS Info Saúde database
+P12594	OSHA Occupational Chemical Database ID	
+P12595	National Library of Uruguay authority ID	authority control identifier used at the National Library of Uruguay
+P12596	museum-digital tag ID	numeric identifier for keywords used in the description of cultural heritage objects in Museum-Digital
+P12597	museum-digital person ID	identification of a person or institution in the vocabulary of the digital museum
+P12598	government.ru person ID	identifier for a minister or senior official on government.ru
+P12599	arch2.iofe.center person ID	identifier for a person at the arch2.iofe.center
+P12600	Digital Athenaeus Catalog author ID	
+P12601	China Ministry of Industry and Information Technology ID	
+P12602	BFO class ID	identifier for Basic Formal Ontology, the upper-level ontology upon which OBO Foundry ontologies are built
+P12603	identifiant Sculpturo	
+P12604	Michigan Historical Marker ID	identifier of a historical marker in the Michigan Historical Marker Program
+P12605	API formatter URL	URI template from which "$1" can automatically be replaced with the effective property value on items; for API access and other machine-readable data
+P12606	Barry Hugman's Footballers player ID	identifier for a player's profile on the Barry Hugman's Footballers website
+P12607	droitne.ch author ID	legal author identifier in thedroitne.ch database
+P12608	Statbunker player ID	identifier for a profile on the Statbunker.com website
+P12609	ffspb.org player ID	identifier for a player at the ffspb.org
+P12610	beachsoccer.com team ID	identifier for a sports team in the BSWW database
+P12612	WildTangent Games ID	identifier for a game on WildTangent Games
+P12613	HCERES organisation ID	identifier for an organisation on the website of High Council for the Evaluation of Research and Higher Education
+P12614	az.lib.ru author ID	identifier for an author on az.lib.ru
+P12615	Hanslick Online person ID	person in the Hanslick Online database
+P12616	leaf morphology	characterization of aspects of the shape of a plant’s leaves
+P12617	creative director	person who makes high-level creative decisions
+P12618	ID of member of the Chambre des députés	ID of a member of the Chambre des députés
+P12619	Algerian National Statistics Office ID	identifier for the subject issued by the ANOS (Algerian National Office of Statistics)
+P12620	mosff.ru staff ID	identifier for a staff at the mosff.ru
+P12621	beneficial owner	natural person or persons who ultimately owns or controls a company or organisation
+P12622	PeerTube channel address	address for a channel on a PeerTube instance, in 'user@server.domain' format
+P12623	WDF player ID	identifier for an players on the WDF website
+P12624	The Spriters Resource game ID	identifier for a video game on The Spriters Resource
+P12625	Cemu Wiki article ID	identifier for an article on the Cemu Wiki
+P12626	Génération Nintendo game ID	identifier of a video game at the website generation-nintendo.com
+P12627	British Comedy Guide person ID	Identifier of a person on comedy.co.uk
+P12628	The Oxford Dictionary of Islam ID	identifier for a subject page in The Oxford Dictionary of Islam
+P12629	Zillow zpid	numeric identifier used for real estate
+P12630	Aragonario ID (6th version)	identifier for an Aragonese or Spanish lexeme in the Aragonese-Spanish online dictionary (version since January 2023)
+P12631	The Oxford Encyclopedia of the Islamic World ID	identifier for a subject page in The Oxford Encyclopedia of the Islamic World: Digital Collection
+P12632	Algerian trademark number ID	identifier for a trademark in the Algerian National Industrial Property Institute
+P12633	Dictionary of Qur'anic Usage ID	identifier of an article from the Dictionary of Qur'anic Usage
+P12634	official server list URL	website, officially recommended by the developer of the software, that lists public server instances of the software
+P12635	Delisted Games ID	identifier for a game on Delisted Games
+P12636	Algerian commune ID	identifier for a commune in the Ministry of the Interior of Algeria
+P12637	The Oxford Encyclopedia of Islam and Women ID	identifier for a subject page in The Oxford Encyclopedia of Islam and Women
+P12638	The Islamic World: Past and Present ID	identifier for a subject page in The Islamic World: Past and Present
+P12639	The Concise Oxford Dictionary of World Religions ID	identifier for a subject page in The Concise Oxford Dictionary of World Religions
+P12640	pressball.by football manager ID	pressball.by identifier for an association football (soccer) manager
+P12641	Duden sense ID	A URL slug of a sense in duden.de
+P12642	EBITDA	accounting measure: net earnings, before interest expenses, taxes, depreciation, and amortization are subtracted
+P12643	date popularized	point in time the subject became well known to the public, if different from its inception
+P12644	GovTrack person ID	numeric identifier for a person on the GovTrack website
+P12645	PlantZAfrica Plants of the Week ID	identifier for a southern African plant featured on the PlantZAfrica website
+P12646	Kritikanstvo game ID	identifier of a video game in the Kritikanstvo database
+P12647	Kritikanstvo publication ID	identifier of a gaming or any other Russian-language publication in the Kritikanstvo database
+P12648	Kritikanstvo critic ID	identifier of a critic in the Kritikanstvo database
+P12649	number of accepted contributions	number of accepted submissions, e.g., conference articles to a conference
+P12650	electoral symbol	symbol allocated to a political party or candidate for use on ballots
+P12651	authorised capital	maximum amount of share capital that the company is authorised to issue to shareholders
+P12652	myabandonware.com game ID	identifier of a video game in the My Abandonware database
+P12653	FürthWiki article ID	identifier for an article in FürthWiki
+P12654	IAFD film UUID	identifier for a film in the Internet Adult Film Database
+P12655	number of submissions	number of submissions, e.g., submitted papers to a conference
+P12657	follows spelling pattern	spelling rule, pattern or paradigm followed by this form
+P12658	A Dictionary of Arabic Literary Terms and Devices ID	identifier for a subject page in A Dictionary of Arabic Literary Terms and Devices
+P12659	Rugby Romania ID	Rugby Romania identifier
+P12660	Scottish Register of Tartans ID	identifier on the Scottish Register of Tartans , a repository of tartans
+P12661	Asociation Espanola de Amigos de los Castillos ID	~8000 castles and medival towers in Spain
+P12662	NICE Paintings ID	numerical identifier for an artwork in the National Inventory of Continental European Paintings online database
+P12663	risk group	risk group of a biological agent guiding its initial handling in labs according to the risk group classification defined by the WHO laboratory biosafety manual
+P12664	Sonic Retro article ID	identifier for an article on the Sonic Retro
+P12665	Algerian district ID	identifier for a district in the Ministry of the Interior of Algeria
+P12666	English & Scottish Football League transfers player ID	identifier for a player's profile on the "Post War English & Scottish Football League A–Z Player's Transfer Database" website by Neil Brown
+P12667	The Spriters Resource platform ID	identifier for a video game console on The Spriters Resource
+P12668	Encyklopedia Medyków Powstania Warszawskiego ID	ID of a person in l'Encyklopedia Medyków Powstania Warszawskiego
+P12669	Cerist.dz CCDZ ID	Cerist CCDZ identifier of a thesis or a PhD holder or a jury member or an institution, on the Algerian thesis database and recorded in the Centre de Recherche sur l'Information Scientifique et Technique
+P12670	Flora Croatica Database taxon ID	identifier for a taxon in the Flora Croatica Database
+P12671	Quadrinhopédia artist ID	identifier for an article on the online biographical reference work about Brazilian comics artists
+P12672	SPV profile ID	ID sportspeople on NPC of Slovakia website
+P12673	CPV profile ID	ID sportspeople on NPC of Czech Republic website
+P12674	Kunstenpunt Knowledge Graph ID	identifier in the Flanders Arts Institute database for performing arts
+P12675	The Oxford Dictionary of Phrase and Fable ID	identifier for an entry in The Oxford Dictionary of Phrase and Fable
+P12676	Hindawi Foundation book ID	property for IDs of books published by Hindawi Foundation
+P12677	timetable/schedule URL	link to the timetable or the schedule (in PDF, HTML, image format) for the given service or the event schedule. The current timetable/schedule should have preferred rank.
+P12678	The Oxford Essential Dictionary of Foreign Terms in English ID	identifier for a subject page in The Oxford Essential Dictionary of Foreign Terms in English
+P12679	Pennsylvania State Senate ID	identifier for a Pennsylvania State senator
+P12680	deterioration	to indicate types of deterioration presented by an artwork, building, artifact, etc.
+P12681	Vanhan kirjasuomen sanakirja ID	identifier for an entry in the dictionary of older written Finnish published by Kotus
+P12682	Suomi–ruotsi-suursanakirja ID	identifier for an entry in the Finnish-Swedish comprehensive dictionary maintained by Kotus
+P12683	FilmVandaag ID	identifier for a movie or TV show on FilmVandaag
+P12684	FBW ID	identifier for films with a certification mark on the website of the "Deutsche Film- und Medienbewertung (FBW)"
+P12685	Encyclopedia of the Middle Ages ID	identifier for a subject page in the Encyclopedia of the Middle Ages
+P12686	category for this time births	category item for people who born in this time
+P12687	category for this time deaths	category item for people who died in this time
+P12688	Jerusalem Film Cinematheque person ID	identifier for a person in the Jerusalem Film Cinematheque database

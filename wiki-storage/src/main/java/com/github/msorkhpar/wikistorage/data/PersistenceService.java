@@ -32,7 +32,7 @@ public class PersistenceService {
     }
 
     // https://github.com/vikramshanbogar/Neo4j-Java
-    public void persistTriples(List<KGTriple> triples) {
+    public boolean persistTriples(List<KGTriple> triples) {
         if (driver.isPresent()) {
             List<Map<String, Object>> paramsList = triples.stream()
                     .map(triple -> Map.<String, Object>of(
@@ -52,11 +52,13 @@ public class PersistenceService {
                             """, params
                     );
                 });
+                return true;
             } catch (Exception e) {
                 logger.error("Exception during triple insertion", e);
                 throw e;
             }
         }
+        return false;
     }
 
     public void persistSubject(String subjectName, String label, String description) {

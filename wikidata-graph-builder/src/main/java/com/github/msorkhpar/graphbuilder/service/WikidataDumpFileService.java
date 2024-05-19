@@ -17,6 +17,7 @@ import java.nio.file.Path;
 import java.util.Optional;
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
+import java.util.stream.Collectors;
 
 import static com.github.msorkhpar.graphbuilder.extractor.WikiDataEntityExtractor.*;
 import static com.github.msorkhpar.graphbuilder.utils.BZip2BufferReader.createBufferedReader;
@@ -51,8 +52,10 @@ class WikidataDumpFileService {
                     String pageString = xmlBuilder.toString();
                     try {
                         Element xmlPage = createPage(pageString);
-                        processMetadata(extractMetadata(xmlPage));
-                        processTriples(WikiDataEntityExtractor.extractTriples(xmlPage));
+                        boolean triplePersistentStatus = processTriples(WikiDataEntityExtractor.extractTriples(xmlPage));
+                        if (triplePersistentStatus) {
+                            processMetadata(extractMetadata(xmlPage));
+                        }
                     } catch (Exception e) {
                         logger.info("Extraction from the following text was not successful, {}", pageString);
                     }
@@ -72,15 +75,20 @@ class WikidataDumpFileService {
         return CompletableFuture.completedFuture(dumpFile);
     }
 
-    private void processTriples(Optional<Set<KGTriple>> tripleSet) {
-        tripleSet.ifPresent(triples -> {
-            persistenceService.persistTriples(triples.stream().filter(kgTriple -> !kgTriple.isQualifier()).toList());
-        });
+    private boolean processTriples(Optional<Set<KGTriple>> tripleSet) {
+        return tripleSet
+                .map(triples ->
+                        persistenceService.persistTriples(
+                                triples.stream()
+                                        .filter(kgTriple -> !kgTriple.isQualifier())
+                                        .toList()
+                        )
+                ).orElse(false);
     }
 
     private void processMetadata(Optional<WikidataEnglishInfoDTO> metadata) {
         metadata.ifPresent(info -> {
-            persistenceService.persistSubject(info.getTitle(), info.getEnLabel(), info.getEnDescription());
+            persistenceService.persistSubject(info.getTitle(), info.getLabel(), info.getDescription());
         });
     }
 }
