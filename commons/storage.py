@@ -113,6 +113,7 @@ def fetch_wiki_mapping(identifier: str) -> tuple[str, str, str] | None:
                     record = (None, None, identifier)
                 else:
                     record = (None, None, None)
+                    print(query)
                     print("Identifier not found!!!", identifier)
     except (Exception, psycopg2.DatabaseError) as error:
         print("Error while fetching abstract", error)
@@ -238,6 +239,28 @@ def mark_wikipedia_page_process_failed(root_wikipedia_id):
             with connection.cursor() as cursor:
                 cursor.execute("UPDATE wikipedia_pages SET processed = null WHERE id = %s",
                                (root_wikipedia_id,))
+                connection.commit()
+    except (Exception, psycopg2.DatabaseError) as error:
+        print("Error while updating processed field", error)
+    finally:
+        if connection:
+            postgresql_pool.putconn(connection)
+
+
+def insert_missing_mappings(wikipedia_id, wikipedia_title, wikidata_id):
+    connection = None
+    try:
+        connection = postgresql_pool.getconn()
+        if connection:
+            with connection.cursor() as cursor:
+                if wikidata_id:
+                    cursor.execute(
+                        "INSERT INTO wiki_page_to_wiki_data_mappings(wikipedia_id, wikipedia_title, wikidata_id)"
+                        " VALUES (%s, %s, %s)",
+                        (wikipedia_id, wikipedia_title, wikidata_id))
+                if not wikidata_id:
+                    cursor.execute("UPDATE wikipedia_pages SET processed = TRUE WHERE id = %s",
+                                   (wikipedia_id,))
                 connection.commit()
     except (Exception, psycopg2.DatabaseError) as error:
         print("Error while updating processed field", error)

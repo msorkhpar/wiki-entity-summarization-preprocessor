@@ -43,3 +43,8 @@ EOT
 
 pgloader ./sqlite-to-page-migration.load
 ```
+
+After running the experiment we encountered some issues with the `wikimapper` library, so we developed the following script to correct the missing data:
+```shell
+python3 missing_data_correction.py
+```

@@ -9,3 +9,4 @@ networkx
 mwparserfromhell
 scikit-learn
 more_itertools
+wptools

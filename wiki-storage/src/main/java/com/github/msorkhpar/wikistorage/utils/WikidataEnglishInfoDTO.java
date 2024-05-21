@@ -12,7 +12,7 @@ public class WikidataEnglishInfoDTO {
     public WikidataEnglishInfoDTO(String title, AdditionalInfo data) {
         this.title = title;
         AdditionalInfo.Info labelInfo = data.getLabels() != null ? data.getLabels().getOrDefault("en", null) : null;
-        AdditionalInfo.Info descInfo = data.getLabels() != null ? data.getDescription().getOrDefault("en", null) : null;
+        AdditionalInfo.Info descInfo = data.getDescription() != null ? data.getDescription().getOrDefault("en", null) : null;
         AdditionalInfo.Site wikipediaInfo = data.getSiteLinks() != null ? data.getSiteLinks().getOrDefault("enwiki", null) : null;
         if (labelInfo != null) {
             this.label = labelInfo.getValue();
@@ -24,13 +24,13 @@ public class WikidataEnglishInfoDTO {
             this.enWikiTitle = wikipediaInfo.getTitle();
         }
         String key = "";
-        if (this.label == null && data.getLabels().size() > 0) {
+        if (this.label == null && data.getLabels() != null && !data.getLabels().isEmpty()) {
             key = data.getLabels().keySet().iterator().next();
             this.label = data.getLabels().get(key).getValue();
-            this.description = data.getDescription().getOrDefault(key,null).getValue();
+            this.description = data.getDescription() != null ? data.getDescription().getOrDefault(key, null).getValue() : null;
         }
 
-        if (this.description == null && data.getDescription().size() > 0) {
+        if (this.description == null && data.getDescription() != null && !data.getDescription().isEmpty()) {
             this.description = data.getDescription().values().iterator().next().getValue();
         }
     }
