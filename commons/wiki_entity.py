@@ -17,18 +17,18 @@ class WikiEntity:
         self._wikidata_label = None
         self._wikidata_description = None
 
-    def get_summaries(self, keep_results=True):
+    def get_summaries(self, keep_results=True, fresh=False):
         if self._summaries:
             return self._summaries
         if not keep_results:
-            build_summaries(self.wikipedia_id, self.wikipedia_page_title, self.wikidata_id)
+            build_summaries(self.wikipedia_id, self.wikipedia_page_title, self.wikidata_id, fresh=fresh)
             return
-        self._summaries = build_summaries(self.wikipedia_id, self.wikipedia_page_title, self.wikidata_id)
+        self._summaries = build_summaries(self.wikipedia_id, self.wikipedia_page_title, self.wikidata_id, fresh)
         return self._summaries
 
-    def get_detailed_summaries(self):
+    def get_detailed_summaries(self, fresh=False):
         if not self._summaries:
-            self._summaries = self.get_summaries()
+            self._summaries = self.get_summaries(fresh=fresh)
         results = []
         for summary in self._summaries:
             from_wikipedia_id, from_wikipedia_title, from_wikidata_id = fetch_wiki_mapping(summary[0])

@@ -52,9 +52,16 @@ class WikidataDumpFileService {
                     String pageString = xmlBuilder.toString();
                     try {
                         Element xmlPage = createPage(pageString);
-                        boolean triplePersistentStatus = processTriples(WikiDataEntityExtractor.extractTriples(xmlPage));
+                        Optional<Set<KGTriple>> tripleSet = WikiDataEntityExtractor.extractTriples(xmlPage);
+                        Optional<WikidataEnglishInfoDTO> metadata = extractMetadata(xmlPage);
+                        if (tripleSet.isEmpty() || metadata.isEmpty() ||
+                                (metadata.get().getLabel().isEmpty() && metadata.get().getDescription().isEmpty())
+                        ) {
+                            continue;
+                        }
+                        boolean triplePersistentStatus = processTriples(tripleSet);
                         if (triplePersistentStatus) {
-                            processMetadata(extractMetadata(xmlPage));
+                            processMetadata(metadata);
                         }
                     } catch (Exception e) {
                         logger.info("Extraction from the following text was not successful, {}", pageString);

@@ -53,13 +53,28 @@ def _get_edge_candidates(root_wikidata_id, mentions: list[str]) -> dict[str, lis
     return edge_candidates
 
 
-def build_summaries(wikipedia_id, wikipedia_title, root_wikidata_id) -> list[tuple[str, str, str]]:
+def build_summaries(wikipedia_id, wikipedia_title, root_wikidata_id, fresh=False) -> list[tuple[str, str, str]]:
     """
     :param wikipedia_title:
     :param root_wikidata_id:
     :return: list of summaries: [ (from_entity, predicate, to_entity), ...]
     """
     # check if the summaries are already stored in Neo4j and return them
+    if fresh:
+        page_content = fetch_wikipedia_page_content(wikipedia_title)
+        raw_abstract = extract_raw_abstract(page_content)
+        mentions = extract_mention_titles(raw_abstract)
+        edge_candidates = _get_edge_candidates(root_wikidata_id, mentions)
+        summaries = []
+        for index, candidates in edge_candidates.items():
+            if len(candidates) > 1:
+                abstract_embedding = compute_embeddings(dewiki(raw_abstract))
+                candidate = _pick_most_relevant_predicate(abstract_embedding, candidates)
+            else:
+                candidate = candidates[0]
+            summaries.append(candidate)
+        return summaries
+
     summaries = fetch_summaries(root_wikidata_id)
     if summaries:
         mark_wikipedia_page_processed(wikipedia_id)

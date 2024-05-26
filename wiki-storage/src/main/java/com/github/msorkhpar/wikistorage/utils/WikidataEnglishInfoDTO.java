@@ -23,15 +23,5 @@ public class WikidataEnglishInfoDTO {
         if (wikipediaInfo != null) {
             this.enWikiTitle = wikipediaInfo.getTitle();
         }
-        String key = "";
-        if (this.label == null && data.getLabels() != null && !data.getLabels().isEmpty()) {
-            key = data.getLabels().keySet().iterator().next();
-            this.label = data.getLabels().get(key).getValue();
-            this.description = data.getDescription() != null ? data.getDescription().getOrDefault(key, null).getValue() : null;
-        }
-
-        if (this.description == null && data.getDescription() != null && !data.getDescription().isEmpty()) {
-            this.description = data.getDescription().values().iterator().next().getValue();
-        }
     }
 }
