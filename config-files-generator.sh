@@ -7,8 +7,6 @@ POSTGRES_VOLUME_PATH=/data/pg-data
 NEO4J_VOLUME_PATH=/data/neo4j-data
 WIKIDATA_DUMPS_PATH=/data/wikidata/articles/
 WIKIPEDIA_DUMPS_PATH=/data/wikipedia/articlesdump/
-JUPYTER_VOLUME_PATH=/data/jupyter-data
-OUTPUT_VOLUME_PATH=/data/wiki-es-output
 "
 }
 
@@ -20,7 +18,6 @@ DB_USER=wikies
 DB_PASSWORD=password
 NEO4J_USER=neo4j
 NEO4J_PASSWORD=password
-JUPYTER_TOKEN=wikies
 "
 }
 
@@ -35,7 +32,6 @@ NEO4J_HOST=wiki-es-neo
 apps() {
   echo '
 ########## Application ##########
-MAX_DB_CONNECTION_POOL=25
 '
 }
 
@@ -100,6 +96,13 @@ SPRING_DATASOURCE_PASSWORD=\${DB_PASSWORD}
 "
 }
 
+wsa_env() {
+  echo "# Wiki Summarization Annotator
+########################################################################
+MAX_DB_CONNECTION_POOL=25
+"
+}
+
 initialize_env() {
   echo "*************************************"
   local env_file=$1
@@ -128,6 +131,7 @@ initialize_env "./configs/pg.env" pg_env
 initialize_env "./configs/neo4j.env" neo4j_env
 initialize_env "./configs/wdgb.env" wdgb_env
 initialize_env "./configs/wppe.env" wpte_env
+initialize_env "./configs/wsa.env" wsa_env
 
 echo "*************************************"
 echo "Done."

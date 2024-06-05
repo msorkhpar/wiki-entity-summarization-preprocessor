@@ -32,12 +32,12 @@ class WikidataDumpFileService {
 
     @SneakyThrows
     @Async
-    public CompletableFuture<Path> process(Path dumpFile, boolean multiStream) {
+    public CompletableFuture<Path> process(Path dumpFile) {
         String fileName = dumpFile.getFileName().toString();
         long start = System.currentTimeMillis();
         long counter = 1;
         logger.info("Start processing [{}]", fileName);
-        try (BufferedReader reader = createBufferedReader(dumpFile, multiStream)) {
+        try (BufferedReader reader = createBufferedReader(dumpFile)) {
             StringBuilder xmlBuilder = new StringBuilder();
             String line;
             while ((line = reader.readLine()) != null) {

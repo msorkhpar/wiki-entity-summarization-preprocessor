@@ -17,8 +17,6 @@ import java.util.concurrent.CompletableFuture;
 @RequiredArgsConstructor
 public class WikidataService {
 
-    @Value("${app.dump-files.multi-stream}")
-    private boolean multiStream;
     private final WikidataDumpFileService tripleExtractorService;
 
 
@@ -26,7 +24,7 @@ public class WikidataService {
     public void constructWikidataTree(List<Path> dumpFiles) {
         ArrayList<CompletableFuture<Path>> results = new ArrayList<>();
         for (Path dumpFile : dumpFiles) {
-            results.add(tripleExtractorService.process(dumpFile, multiStream));
+            results.add(tripleExtractorService.process(dumpFile));
         }
         CompletableFuture.allOf(results.toArray(new CompletableFuture[0])).join();
     }

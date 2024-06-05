@@ -5,7 +5,6 @@ import re
 from functools import lru_cache
 from pathlib import Path
 from functools import wraps
-from typing import List
 
 from more_itertools import batched
 
@@ -310,11 +309,6 @@ def manage_neo4j_session(f):
             close_session()
 
     return wrapped
-
-
-# TODO create indexes if not exists
-# CREATE INDEX summary_summary_for_index FOR ()-[r:SUMMARY]->() ON (r.summary_for);
-# CREATE INDEX wiki_entity_entityName_index FOR (n:WikiEntity) ON (n.entityName);
 
 @lru_cache(maxsize=1024)
 @manage_neo4j_session

@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "wiki-entity-summarization-preprocessor"
+version = "0.1.0"
+description = ""
+authors = ["Mo Sorkhpar <Sorkhpar@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+psycopg2-binary = "^2.9.9"
+neo4j = "^5.20.0"
+transformers = "^4.41.2"
+wikitextparser = "^0.55.13"
+html2text = "^2024.2.26"
+networkx = "^3.3"
+mwparserfromhell = "^0.6.6"
+more-itertools = "^10.2.0"
+wptools = "^0.4.17"
+torch = {version = "^2.3.1+cpu", source = "pytorch_cpu"}
+torchvision = {version = "^0.18.1+cpu", source = "pytorch_cpu"}
+
+
+[[tool.poetry.source]]
+name = "pytorch_cpu"
+url = "https://download.pytorch.org/whl/cpu"
+priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

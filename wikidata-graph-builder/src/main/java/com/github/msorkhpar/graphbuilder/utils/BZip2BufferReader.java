@@ -11,11 +11,11 @@ import java.nio.file.Path;
 
 public class BZip2BufferReader {
 
-    public static BufferedReader createBufferedReader(Path dumpFile, boolean multiStream) throws IOException {
+    public static BufferedReader createBufferedReader(Path dumpFile) throws IOException {
         return new BufferedReader(
                 new InputStreamReader(
                         new BZip2CompressorInputStream(
-                                new FileInputStream(dumpFile.toFile()), multiStream),
+                                new FileInputStream(dumpFile.toFile()), false),
                         StandardCharsets.UTF_8));
     }
 }

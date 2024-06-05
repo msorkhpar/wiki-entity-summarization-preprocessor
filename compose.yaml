@@ -6,7 +6,10 @@ services:
     container_name: wikidata_graph_builder
     env_file:
       - configs/wdgb.env
+
     environment:
+      - APP_DUMPFILES_pattern=*pages-articles*xml*.bz2
+      - APP_EXECUTORPOOL_COREPOOLSIZE=20
       - APP_DUMPFILES_DIR=${WIKIDATA_DUMPS_PATH}
       - SPRING_DATASOURCE_URL=jdbc:postgresql://wiki-es-pg:${DB_PORT}/${DB_NAME}
       - SPRING_DATASOURCE_USERNAME=${DB_USER}
@@ -33,6 +36,8 @@ services:
     env_file:
       - configs/wdgb.env
     environment:
+      - APP_DUMPFILES_pattern=*pages-articles*xml*.bz2
+      - APP_EXECUTORPOOL_COREPOOLSIZE=20
       - APP_DUMPFILES_DIR=${WIKIPEDIA_DUMPS_PATH}
       - SPRING_DATASOURCE_URL=jdbc:postgresql://wiki-es-pg:${DB_PORT}/${DB_NAME}
       - SPRING_DATASOURCE_USERNAME=${DB_USER}
@@ -46,6 +51,22 @@ services:
       - postgres
     volumes:
       - wikipedia-dumps:${WIKIPEDIA_DUMPS_PATH}
+    networks:
+      - wiki-es-network
+  wsa:
+    build:
+      context: .
+      dockerfile: wiki_summary/Dockerfile
+    container_name: wiki_summary_annotator
+    depends_on:
+      neo4j:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    links:
+      - postgres
+    volumes:
+      - ./.env:/app/.env
     networks:
       - wiki-es-network
   postgres:
