@@ -10,9 +10,9 @@ tasks.
 
 For the pre-processing steps, we used an r5a.4xlarge instance on AWS with the following specifications:
 
-vCpu: 16 (AMD EPYC 7571, 16 MiB cache, 2.5 GHz)
-Memory: 128 GB (DDR4, 2667 MT/s)
-Storage: 500 GB (EBS, 2880 Max Bandwidth)
+- vCpu: 16 (AMD EPYC 7571, 16 MiB cache, 2.5 GHz)
+- Memory: 128 GB (DDR4, 2667 MT/s)
+- Storage: 500 GB (EBS, 2880 Max Bandwidth)
 
 ### Getting Started
 
