@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/msorkhpar/wiki-entity-summarization-preprocessor)
+
 # Wiki Entity Summarization Pre-processing
 
 ## Overview
