@@ -106,4 +106,4 @@ configuration parameters to get a fully customized Entity Summarization Dataset.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC BY 4.0 License. See the [LICENSE](LICENSE) file for details.
