@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/msorkhpar/wiki-entity-summarization-preprocessor)
+[![arXiv](https://img.shields.io/badge/arXiv-2406.08435-B31B1B.svg)](https://doi.org/10.48550/arXiv.2406.08435)![GitHub License](https://img.shields.io/github/license/msorkhpar/wiki-entity-summarization-preprocessor)
 
 # Wiki Entity Summarization Pre-processing
 
@@ -105,6 +105,21 @@ docker-compose up wsa
 By running the above commands, you will have the necessary databases and data loaded to start the Wiki Entity
 Summarization project. The next steps involve providing a set of seed nodes based on your preference along with other
 configuration parameters to get a fully customized Entity Summarization Dataset.
+
+## Citation
+
+If you use this project in your research, please cite the following paper:
+
+```bibtex
+@misc{javadi2024wiki,
+    title = {Wiki Entity Summarization Benchmark},
+    author = {Saeedeh Javadi and Atefeh Moradan and Mohammad Sorkhpar and Klim Zaporojets and Davide Mottin and Ira Assent},
+    year = {2024},
+    eprint = {2406.08435},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.IR}
+}
+```
 
 ## License
 
